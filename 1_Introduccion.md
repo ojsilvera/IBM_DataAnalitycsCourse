@@ -781,6 +781,21 @@ un sitio web.
 
 ##### Carreras en computación en la nube, Infografía
 
+A estas alturas ya comprende que las tecnologías y servicios de computación en la nube están en todas partes. Quizás se
+pregunte qué industrias se centran más en la computación en la nube, qué habilidades técnicas podrían estar en demanda o
+cuáles son los trabajos interesantes en este campo. Las respuestas a estas preguntas, además de algunos datos más, se
+incluyen en la siguiente infografía.
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
 ##### Prueba tus conocimientos
 
 #### Como se utiliza el cloud computing?
