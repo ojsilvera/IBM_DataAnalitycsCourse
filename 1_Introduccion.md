@@ -172,6 +172,14 @@ pregunte qué industrias se centran más en la ciencia de datos, qué habilidade
 son los trabajos interesantes en este campo. La respuesta a estas preguntas, además de algunos datos más, se incluyen en la
 siguiente infografía.
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 ### Explorar tecnologia emergente
 
 ### Explorar metodologias agiles
