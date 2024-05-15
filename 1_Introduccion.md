@@ -188,9 +188,124 @@ siguiente infografía.
 
 ##### Introduccion
 
-##### Ordenar datos para el analisis
+*Hacer las cosas con ciencia de datos.*
 
-##### Visualizar datos para comunicarlos
+Después de aprender sobre qué es la ciencia de datos en ¿Qué es la ciencia de datos? módulo, ahora es el momento de explorar
+cómo se hace.
+
+En este módulo, aprenderá sobre algunas de las herramientas y técnicas que utilizan los científicos de datos para encontrar
+los conocimientos que contienen los datos. Esto incluye aprender cómo explorar datos en bases de datos relacionales, cómo
+comunicar datos visualmente y cómo la ciencia de datos y el aprendizaje automático se unen para proyectar el futuro.
+
+![alt text](image-5.png)
+
+##### Ordenar datos para el analisis, Gestionando tus datos
+
+**¿Que es una base de datos?**
+
+Casi todos los científicos de datos dedicarán tiempo a trabajar en una base de datos , que es una colección organizada de
+datos estructurados en un sistema informático. (Recuerde, los datos estructurados generalmente se organizan en formato de
+tabla con filas y columnas, como el siguiente ejemplo).
+
+![alt text](image-6.png)
+
+La mayoría de las bases de datos actuales están organizadas como bases de datos relacionales, que son colecciones de múltiples
+conjuntos de datos o tablas que se vinculan entre sí.
+
+Por ejemplo, una tabla puede enumerar nombres y direcciones, mientras que la otra puede enumerar propiedades y sus
+propietarios. Si algunos de los propietarios también aparecen en la tabla de nombres y direcciones, las dos tablas se pueden
+vincular, creando una base de datos relacional.
+
+Los sistemas de gestión de bases de datos relacionales (RDMS) ayudan a los científicos de datos a correlacionar información
+de todas las tablas dentro de la base de datos, cambiar datos relacionados o agregar y eliminar datos en la base de datos
+sin romper su estructura.
+
+**Utilice una base de datos para almacenar y ordenar datos.**
+
+La mayoría de los sistemas de gestión de bases de datos utilizan algún tipo de lenguaje de consulta estructurado, o SQL,
+para hacer preguntas o "consultar" la base de datos o modificar su contenido. SQL es increíblemente útil y es algo que
+puedes aprender a través de un libro, un curso en línea o un club de informática. Vamos a ver cómo funciona.
+
+Suponga que tiene un millón de filas de datos en una tabla de votantes registrados en su estado. (¡Muchas bases de datos son
+así de grandes, o incluso más grandes!) La tabla contiene información sobre el lugar de votación, la afiliación partidista y
+la edad de cada votante. Si solo quisiera obtener la información de todos los votantes menores de 21 años, podría escribir
+una consulta en SQL que realice una búsqueda simple. Se vería así:
+
+![alt text](image-7.png)
+
+Sí, una simple búsqueda podría haber respondido a esta pregunta en particular. Sin embargo, si desea descubrir votantes que
+viven en un área geográfica particular para poder estudiar la frecuencia con la que personas de diferentes edades de ese
+grupo acuden a las urnas, su consulta abrumará una simple búsqueda. ¡Pero SQL puede hacer el trabajo!
+
+Si bien SQL es el lenguaje subyacente que impulsa la mayor parte del trabajo realizado en bases de datos relacionales,
+existen muchos RDBMS en los que puede realizar ese trabajo. A medida que se aventure en este campo, se encontrará con
+nombres como estos:
+
+        mysql
+        acceso Microsoft
+        PostgreSQL
+        Oráculo
+        DB2
+        MongoDB
+
+**Elija las herramientas adecuadas para gestionar los datos.**
+
+¿Por dónde empiezas? ¡Existen docenas de herramientas y plataformas útiles de ciencia de datos! Aquí hay una lista de
+algunas plataformas populares y de código abierto que puede utilizar para comenzar su propio viaje en ciencia de datos.
+
+*R es un buen lugar para comenzar.*
+
+R es un lenguaje de programación y un entorno de software gratuito que se utiliza a menudo para análisis estadístico y
+ciencia de datos. Muchos aspirantes a científicos de datos comienzan con esta herramienta o con una de las interfaces R
+populares, y hay cientos de paquetes útiles en R que ayudan con la visualización de datos como ggplot2.
+
+Así es como se ve RStudio. Es una interfaz popular para trabajar en R.
+
+![alt text](image-8.png)
+
+*Python funciona para propósitos generales.*
+
+Python es un lenguaje de programación popular de propósito general que también se puede utilizar para la ciencia de datos.
+Combínelo con una biblioteca como  la biblioteca pandas y con una interfaz útil, y Python puede ayudarlo a crear nuevos
+conocimientos y visualizaciones de datos.
+
+Así es como se ve Python en la interfaz de una computadora portátil.
+
+![alt text](image-9.png)
+
+*MATLAB ayuda a hacer números.*
+
+MATLAB fue creado para centrarse en la computación numérica. Se utiliza a menudo en la educación superior.
+
+*Apache Spark admite big data y aprendizaje automático.*
+
+Apache Spark es un marco patentado de propósito general que puede resultar especialmente útil para conjuntos de datos
+extremadamente grandes y el aprendizaje automático que los utiliza.
+
+##### Visualizar datos para comunicarlos, Compartiendo tus resultados
+
+**Visualiza tus datos.**
+
+¿De qué sirven los datos si no se pueden comunicar de manera que la gente los entienda? Los científicos de datos utilizan
+visualizaciones como gráficos o mapas para ayudar a las personas a comprender el significado de los datos. Si se usan
+correctamente, estas herramientas pueden aportar claridad y simplicidad a cuestiones complicadas.
+
+*Utilice gráficos para estadísticas.*
+
+Los gráficos y cuadros son una excelente manera de arrojar luz sobre estadísticas confusas o información en tablas.
+
+![alt text](image-10.png)
+
+*Utilice mapas para las relaciones.*
+
+Hay muchos tipos de gráficos y tablas, como el histograma que se muestra arriba, e incluye diagramas de dispersión,
+diagramas de barras, diagramas de caja y muchos más.
+
+Los mapas son una excelente manera de expresar datos que se pueden presentar como áreas en dos dimensiones. Funcionan bien
+no sólo para la geografía, sino también para relaciones como la popularidad de la marca, las preferencias musicales o
+incluso las redes eléctricas municipales.
+
+![alt text](image-11.png)
 
 ##### Utilice datos para impulsar el aprendizaje automatico
 
