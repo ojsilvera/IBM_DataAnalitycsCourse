@@ -397,9 +397,41 @@ Aplicaciones como estas serían imposibles sin el poder de la ciencia de datos m
 
 ##### Trabajar con datos, Un día en la vida
 
+**¿Cómo es trabajar con datos?**
+
+Exploremos cómo son las carreras en ciencia de datos y cuáles son las oportunidades laborales. Analizaremos algunas
+aplicaciones de la ciencia de datos en el mundo real. Luego profundizaremos en los trabajos de ciencia de datos y las formas
+en que las empresas utilizan los datos.
+
+Básicamente, el trabajo de un científico de datos es analizar grandes cantidades de información sin procesar para encontrar
+patrones. Eso podría significar preprocesar datos, construir modelos para analizar esos datos o presentar información
+utilizando técnicas de visualización de datos. La ciencia de datos siempre se trata de extraer información valiosa de los
+datos.
+
 ##### Aplicando la ciencia de datos, ¿Para qué sirve?
 
+**¿Cómo aplicamos la ciencia de datos?**
+
+Desde cosas simples como la búsqueda de Google, los juegos y el desarrollo de productos hasta aplicaciones futuristas como
+la realidad aumentada y la publicidad predictiva, la ciencia de datos ofrece beneficios a casi todas las industrias.
+
+En el siguiente video, escuchará a varios jóvenes científicos de datos discutir posibles aplicaciones de la ciencia de datos
+y algunas preocupaciones éticas sobre cómo se podrían aplicar sus hallazgos.
+
+<https://youtu.be/LITpRGbrDkM>
+
 ##### ¿Cómo es ser científico de datos en IBM?, Empleos del mundo real
+
+**Caminos apasionantes para los científicos de datos.**
+
+IBM emplea científicos de datos en una variedad de campos, desde análisis de salud hasta energía y finanzas. El objetivo de
+la ciencia de datos es ayudar a analizar tendencias para tomar mejores decisiones ante los desafíos comerciales. Estos
+especialistas descubren patrones en los datos, los visualizan, los utilizan para resolver problemas y crean algoritmos para
+convertir los datos en acción.
+
+Escuche estas entrevistas con científicos de datos profesionales.
+
+<https://youtu.be/CqcEW-jyDmo>
 
 ##### La ciencia de datos y tú
 
