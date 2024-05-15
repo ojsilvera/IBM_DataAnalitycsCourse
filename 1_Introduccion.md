@@ -639,7 +639,7 @@ software (SaaS), o incluso utilizar varios proveedores de infraestructura (IaaS)
 proveedores de infraestructura para diferentes cargas de trabajo, equilibrar una única carga de trabajo entre varios
 proveedores o utilizar una única carga de trabajo en un proveedor respaldada por otro.
 
-**Nubes y premisas, ¿cuál es la diferencia?**
+**Nubes y on-promise, ¿cuál es la diferencia?**
 
 A menudo la gente habla de nube pública y privada y las confunde con instalaciones. Por ejemplo, podrían pensar que la nube
 pública está fuera de las instalaciones (verdadero), mientras que la nube privada siempre está dentro de las instalaciones
