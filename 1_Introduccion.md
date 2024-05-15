@@ -393,6 +393,16 @@ Aquí hay dos ejemplos de lo que podríamos aprender cuando el aprendizaje autom
 
 Aplicaciones como estas serían imposibles sin el poder de la ciencia de datos moderna.
 
+#### Ciencia de datos en el mundo real
+
+##### Trabajar con datos, Un día en la vida
+
+##### Aplicando la ciencia de datos, ¿Para qué sirve?
+
+##### ¿Cómo es ser científico de datos en IBM?, Empleos del mundo real
+
+##### La ciencia de datos y tú
+
 ### Cloud computing
 
 ### Inteligencia Artificial (IA)
