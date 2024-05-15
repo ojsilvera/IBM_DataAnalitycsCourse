@@ -65,6 +65,27 @@ Como puede ver, los datos estructurados tienden a estar bien organizados, lo que
 descubrir su tesoro utilizando herramientas comunes de análisis de datos. Las hojas de cálculo se basan en tablas como esta,
 por lo que manejan muy bien datos estructurados.
 
+*Datos no estructurados.*
+
+Luego están los datos no estructurados, que es una forma elegante de decir "todo lo demás". Usamos este término cuando los
+datos no tienen una organización (o estructura) incorporada. Los datos no estructurados pueden ser una colección de archivos
+de audio, publicaciones en redes sociales, textos de ensayos o incluso letras de canciones.
+
+Aquí hay dos ejemplos para ayudarle a ver la diferencia:
+
+Su Departamento de Vehículos Motorizados toma fotografías de todas las personas que obtienen una licencia de conducir. Una
+colección de esas imágenes son  datos no estructurados . (Pero la tabla de nombres, direcciones y números de licencia de las
+personas que indexa esas fotos son datos estructurados).
+
+Una biblioteca descargable puede ofrecer texto de miles de libros diferentes. El catálogo que enumera los nombres, autores y
+fechas de esos libros son datos estructurados . (Pero el texto de esos libros son datos no estructurados).
+
+Puede ser más difícil trabajar con datos no estructurados que con datos estructurados, ¡pero sigue siendo útil! Supongamos
+que una empresa de videojuegos recibe muchos informes de errores por correo electrónico sobre un nuevo lanzamiento. El texto
+de esos correos electrónicos son datos no estructurados. Al examinar esos textos (y tal vez al convertir parte de su
+contenido en datos estructurados), un científico de datos puede descubrir patrones e identificar el problema para que la
+empresa pueda solucionarlo.
+
 ### Explorar tecnologia emergente
 
 ### Explorar metodologias agiles
