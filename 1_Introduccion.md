@@ -307,7 +307,91 @@ incluso las redes eléctricas municipales.
 
 ![alt text](image-11.png)
 
+**Elija la herramienta adecuada para la visualización de datos.**
+
+Puede crear visualizaciones de datos simples, como cuadros o gráficos, en la mayoría de los programas de hojas de cálculo.
+Pero a medida que los datos se vuelven más complejos, recurrirá a otras herramientas. Algunos se venden como productos de
+visualización independientes, mientras que otros son complementos de los sistemas de gestión de datos.
+
+También encontrará excelentes libros, impresos y en línea, que lo ayudarán a hacer que sus visualizaciones sean más útiles.
+Aquí tienes una pista: *¡mira el trabajo de Edward Tufte, un maestro de la visualización!*
+
+*Tableau crea visualizaciones interactivas.*
+
+Tableau puede ayudarle a crear visualizaciones interactivas sin escribir código. Muchas organizaciones en línea lo utilizan,
+lo que lo convierte en una excelente herramienta para explorar.
+
+![alt text](image-12.png)
+
+*ggplot2 ayuda con datos complejos.*
+
+Una de las herramientas de espacio de trabajo de R más populares es ggplot2, que puede ayudar a visualizar datos que son
+demasiado complejos para otros programas menos sólidos.
+
+![alt text](image-13.png)
+
+*Matplotlib funciona bien con Python.*
+
+Matplotlib es una herramienta de visualización popular que funciona con el lenguaje de programación Python. Ayuda a los
+programadores a crear cuadros, gráficos y mapas en muchos formatos diferentes.
+
+![alt text](image-14.png)
+
+**¿Puede la visualización de datos describir tu propia pasión?**
+
+En el ¿Qué es la ciencia de datos? En el módulo, exploraste la idea de algo que te apasiona y cómo se podrían aplicar los
+datos a ese campo. Ahora, intenta entrar en la web y encontrar una visualización de datos que se aplique a tu pasión.
+
+Podría ser un mapa de algún tipo, un cuadro, una gráfica o alguna otra imagen que ayude a expresar datos de una manera
+diferente a una simple tabla. Después de buscar, tómate un tiempo para anotar qué tipo de visualización de datos has
+encontrado.
+
+Yo he encontrado cuantos jugadores he tenio un videojuego como last epoch desde el dia de s lanzamiento hasta la fecha, en
+steam charts se muestra la grafica, es un tipo de grafico de linea que muestra cuantos jugadores ha tenido el juego en
+simultaneo en marcos de tiempo predeterminados, horas, dias, semanas o años, mostrando los picos de mayor trafico y como
+estos disminuyen de acurdo a ciertas situaciones en especifico, lanzamientos, actualizaciones o parches, caidas de
+servidores, etc.
+
 ##### Utilice datos para impulsar el aprendizaje automatico
+
+**¡Las máquinas pueden aprender!**
+
+Durante muchos años, las computadoras sólo podían hacer cálculos matemáticos o ejecutar programas paso a paso de acuerdo con
+reglas específicas. Pero hoy, la inteligencia artificial , o IA, ha cambiado las reglas del juego. Ahora, los sistemas no
+vivos pueden, al igual que los sistemas vivos, sentir su entorno y tomar decisiones en pos de sus objetivos.
+
+¡El aprendizaje automático  permite esta asombrosa habilidad! Los seres humanos están empezando a crear sistemas
+informáticos que pueden aprender por sí solos, sin programas paso a paso ni reglas específicas. Los sistemas de aprendizaje
+automático ya nos ayudan en la vida cotidiana. Considere, por ejemplo, lo que sucede cuando alguien de su familia toma una
+fotografía de un cheque con su teléfono inteligente para realizar un depósito bancario. El aprendizaje automático ha
+enseñado a los sistemas del banco cómo leer la letra de ese cheque y comprender su significado.
+
+Aquí hay otro ejemplo. Hoy en día, cuando alguien con cáncer visita a un médico, ese médico puede mostrar en pantalla un
+conjunto detallado de posibles tratamientos, cada uno de ellos basado en investigaciones actualizadas y completo con una
+evaluación de la probabilidad de que funcione para ese paciente en particular. El médico toma la decisión, pero es la
+máquina, que aprende cada vez más sobre el cáncer leyendo miles de informes de investigación tan pronto como se publican, la
+que recomienda tratamientos probables.
+
+**La ciencia de datos impulsa el aprendizaje automático.**
+
+¿Se pregunta por qué lee sobre IA en un curso de ciencia de datos? Porque el aprendizaje automático requiere enormes
+cantidades de datos y la capacidad de extraer significado de esos datos. ¡Eso es ciencia de datos a gran escala! Los
+científicos de datos de hoy utilizan algoritmos y técnicas de aprendizaje automático para extraer información de los enormes
+almacenes de datos del mundo.
+
+![alt text](image-15.png)
+
+Aquí hay dos ejemplos de lo que podríamos aprender cuando el aprendizaje automático desglosa grandes cantidades de datos:
+
+    La regresión explora cómo cambiará un conjunto de hechos o números cuando cambien otros factores o números relacionados,
+    Por ejemplo, el aprendizaje automático puede estimar el precio de venta apropiado de una casa nueva en función de las
+    ventas de otras casas similares en el área.
+
+    La clasificación identifica grupos ocultos dentro de conjuntos de información aparentemente aleatorios. Por ejemplo, el
+    aprendizaje automático puede mirar videos de miles de cámaras en las esquinas de las calles y rastrear los caminos seguidos
+    por personas de un género, raza o apariencia en particular.
+
+Aplicaciones como estas serían imposibles sin el poder de la ciencia de datos moderna.
 
 ### Cloud computing
 
