@@ -435,7 +435,49 @@ Escuche estas entrevistas con científicos de datos profesionales.
 
 ##### La ciencia de datos y tú
 
+Algunas actividades para explorar más la ciencia de datos, Pruebe las siguientes actividades para ver cómo la ciencia de
+datos podría aplicarse a su vida e intereses.
+
+**¡Hacer una pregunta!**
+
+Piense en una pregunta interesante que pueda responderse con datos. Aquí hay unos ejemplos:
+
+¿Cuántos adolescentes viven en mi ciudad?
+¿Cuál es el promedio de asistencias por partido de los bases en la NBA?
+¿Qué canción pop se ha escuchado más en los últimos seis meses?
+La pregunta puede ser cualquier cosa que quieras, siempre que te interese y puedas responderla si tienes los datos correctos.
+
+**¡Reúne algunos datos!**
+
+A veces lo primero es una pregunta. Otras veces, los científicos de datos encuentran un conjunto de datos que parece
+interesante y luego lo exploran. Si no tienes la pregunta perfecta, ¡no te preocupes! Tu próximo paso podría ser encontrar
+algunos datos interesantes sobre tu pasión. Eso podría generar varias preguntas interesantes.
+
+Muchas industrias tienen datos disponibles públicamente en la web. Ya sea que te gusten los deportes, la música, la moda, el
+arte, la salud, los juegos o cualquier otra cosa, comienza a buscar tablas que contengan datos estructurados que puedas
+explorar.
+
+**¡Pruebe una herramienta!**
+
+¿Quizás una herramienta en particular despertó su interés? ¿Quizás le gustaría comenzar a crear gráficos usando R o siempre
+quiso aprender más sobre Python? ¿O tal vez tiene su pregunta y sus datos y está listo para comenzar a utilizar técnicas
+avanzadas para obtener información?
+
+Continúe y experimente utilizando una de las herramientas de ciencia de datos disponibles públicamente de las que hablamos
+en el módulo anterior. Importe una tabla a una herramienta, cree un gráfico o realice otro curso sobre un software.
+¡Aprenderás (y harás) más mientras intentas trabajar en algo!
+
+**¡Lee un blog!**
+
+Los blogueros de IBM son un gran recurso para obtener una perspectiva más profunda de la ciencia de datos. Vuelva a
+consultar de vez en cuando para ver temas sobre big data y análisis en acción en todo el mundo en el sitio Cloud Computing
+News de IBM.
+
 ### Cloud computing
+
+#### Que es cloud computing?
+
+#### Como se utiliza el cloud computing?
 
 ### Inteligencia Artificial (IA)
 
