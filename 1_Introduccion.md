@@ -508,7 +508,7 @@ alguna parte?
 
 ##### Carreras en computación en la nube, Infografía
 
-##### ¡Prueba tus conocimientos!
+##### Prueba tus conocimientos
 
 #### Como se utiliza el cloud computing?
 
