@@ -9,11 +9,15 @@ se deben desarrollar las siguientes tareas con una duracion de 16hrs
 
 ya la tenia <https://www.credly.com/users/ojsilvera/badges>
 
-## desarrollar los siguientes modulos introductorios
+A continuacion el desarrollo de los modulos obligatorios como prerequisito para participar por la beca.
 
-### Que es la ciencia de datos?
+## Explorar tecnologia emergente
 
-#### Todo es cuestión de información
+### Ciencia de datos (datos y análisis)
+
+#### Que es la ciencia de datos?
+
+##### Todo es cuestión de información
 
 **Exploremos la ciencia de datos.**
 
@@ -34,7 +38,7 @@ Para comenzar con la ciencia de datos, aquí hay un video breve que explora el c
 
 <https://youtu.be/f9AqD83qHGg>
 
-#### Como manejas los datos?
+##### Como manejas los datos?
 
 **Puedes organizar los datos de dos maneras diferentes.**
 
@@ -86,7 +90,7 @@ de esos correos electrónicos son datos no estructurados. Al examinar esos texto
 contenido en datos estructurados), un científico de datos puede descubrir patrones e identificar el problema para que la
 empresa pueda solucionarlo.
 
-#### Como convertirse en cientifico de datos?
+##### Como convertirse en cientifico de datos?
 
 **Cuál es el camino hacia este campo?**
 
@@ -107,7 +111,7 @@ En el siguiente video, aprenderá cómo los diferentes caminos pueden llevarlo a
 
 <https://youtu.be/tM88Bo5S83s>
 
-#### ¿Te gustará el trabajo? cazando tesoros
+##### ¿Te gustará el trabajo? cazando tesoros
 
 **Es una búsqueda de comprensión.**
 
@@ -163,7 +167,7 @@ genera datos no estructirados, pero al relacionarla con el uso que los jugadorre
 pasan a ser datos estructurados, que nos permiten inferir los intereses de los jugadores y si algunas caracteristicas
 merecen o no continuar en el juego y por lo tanto seguir invirtientoles tiempo y recursos valiosos para la organizacion
 
-#### La ciencia de datos como carrera, Infografía
+##### La ciencia de datos como carrera, Infografía
 
 **Carreras en ciencia de datos.**
 
@@ -180,8 +184,26 @@ siguiente infografía.
 
 ![alt text](image-4.png)
 
-### Explorar tecnologia emergente
+#### Técnicas para gestionar, compartir y poner datos a trabajar
 
-### Explorar metodologias agiles
+##### Introduccion
 
-### Panorama laboral
+##### Ordenar datos para el analisis
+
+##### Visualizar datos para comunicarlos
+
+##### Utilice datos para impulsar el aprendizaje automatico
+
+### Cloud computing
+
+### Inteligencia Artificial (IA)
+
+### Ciberseguridad
+
+### Blockchain
+
+### Internet de las cosas (IoT)
+
+## Explorar metodologias agiles
+
+## Panorama laboral
