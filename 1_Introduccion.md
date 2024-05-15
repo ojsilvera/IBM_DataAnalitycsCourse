@@ -86,6 +86,20 @@ de esos correos electrónicos son datos no estructurados. Al examinar esos texto
 contenido en datos estructurados), un científico de datos puede descubrir patrones e identificar el problema para que la
 empresa pueda solucionarlo.
 
+#### Como convertirse en cientifico de datos?
+
+**Cuál es el camino hacia este campo?**
+
+En un tema anterior, viste a jóvenes profesionales hablar sobre ciencia de datos. ¿Notaste que nadie llegó a este campo de la misma manera? Esto se debe a que la ciencia de datos es un estudio emergente que no se ha definido claramente hasta hace poco. (Y, en algunas áreas, la definición todavía está cambiando).
+
+Es útil pensar en la ciencia de datos como una creación de conocimiento a partir de datos , sin importar qué técnica se utilice para analizar los datos. Es como una búsqueda del tesoro. Comienza con texto sin formato, números, gráficos o cualquier otro tipo de datos, y explora esos datos para descubrir patrones e ideas valiosas.
+
+Ninguna certificación o conjunto de habilidades especiales lo califica como científico de datos. Simplemente comience a analizar datos en cualquiera de sus muchas formas. Si utilizas técnicas científicas para derivar información de los datos, eres un científico de datos, ¡sin importar cómo ingresaste al campo! Pero hay áreas de estudio que pueden ayudarle a prepararse para buscar tesoros de datos y las veremos más adelante en este curso.
+
+En el siguiente video, aprenderá cómo los diferentes caminos pueden llevarlo a este destino profesional.
+
+<https://youtu.be/tM88Bo5S83s>
+
 ### Explorar tecnologia emergente
 
 ### Explorar metodologias agiles
