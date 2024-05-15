@@ -675,6 +675,110 @@ sobre estas combinaciones ahora.
 
 ##### Terminología de computación en la nube, conocer la jerga
 
+La terminología que rodea a la computación en la nube puede ser abrumadora y hay mucho que seguir al día. Estos son algunos
+de los principales términos y acrónimos que cubren conceptos clave de computación en la nube.
+
+*Nube:*
+
+En la computación en la nube, “nube” se utiliza como metáfora de Internet, por lo que la frase computación en la nube
+significa un tipo de computación basada en Internet.
+
+*Servicios en la nube:*
+
+Los servicios en la nube son aplicaciones, servicios o recursos puestos a disposición de los usuarios a pedido a través de
+Internet, tales como:
+
+Infraestructura como servicio (IaaS)
+Plataforma como servicio (PaaS)
+Software como servicio (SaaS)
+Almacenamiento de datos
+
+*Clústeres:*
+
+Un clúster de computadoras es una colección de computadoras o servidores independientes interconectados que pueden trabajar
+juntos como un recurso informático único e integrado.
+
+*Contenedores:*
+
+Un contenedor es un "envoltorio" que permite que el software viaje entre entornos operativos. Los contenedores crean una
+instancia virtual única de un sistema operativo (SO) que separa una aplicación de otras en el mismo entorno. Los
+contenedores pueden ejecutar instancias separadas de una aplicación dentro de un único sistema operativo compartido.
+
+*Nube híbrida:*
+
+Una nube híbrida es una combinación de TI tradicional y nubes públicas o privadas (o ambas) que permanecen separadas, pero
+están unidas por tecnología que hace que los datos o la aplicación sean portátiles.
+
+*Infraestructura como servicio (IaaS):*
+
+IaaS ofrece infraestructura informática de forma subcontratada para respaldar las operaciones de una empresa. Incluye
+servidores, red, sistemas operativos y almacenamiento, a través de tecnología de virtualización que no requiere que la
+empresa la mantenga o administre físicamente. Sus servidores en la nube suelen incluir un panel o una interfaz de
+programación de aplicaciones (API) que brinda a la empresa el control de toda la infraestructura.
+
+Las nuevas empresas y las pequeñas empresas pueden preferir IaaS para evitar gastar tiempo y dinero comprando y creando
+hardware y software, como servidores, almacenamiento o recursos de red.
+
+Cuando escuche IaaS, piense en recursos informáticos, de almacenamiento y de redes.
+
+*Kubernetes:*
+
+Kubernetes es una plataforma de código abierto para gestionar cargas de trabajo y servicios en contenedores.
+
+*Multinube:*
+
+La multinube es el uso de más de una nube pública, una estrategia que permite a las empresas elegir servicios específicos de
+una combinación de nubes públicas IaaS como IBM Cloud, Amazon Web Services y Microsoft Azure. Esto permite a las empresas
+evitar depender de un solo proveedor de nube.
+
+*Dentro de las instalaciones versus fuera de las instalaciones:*
+
+On-premise se refiere a una solución instalada y alojada internamente. La nube privada está alojada en el centro de datos
+de la propia empresa.
+
+Una solución alojada en hardware dedicado que se encuentra en una ubicación física diferente se denomina externa.
+
+*Plataforma como servicio (PaaS):*
+
+PaaS proporciona componentes en la nube para programas de software. PaaS ofrece un marco para desarrolladores que pueden
+utilizar para crear aplicaciones personalizadas. La plataforma suele incluir un sistema operativo, un entorno de ejecución
+de lenguaje de programación, una base de datos y un servidor web.
+
+Cuando escuche PaaS, piense en herramientas de desarrollo, gestión de bases de datos y análisis de negocios.
+
+*Nube privada:*
+
+Una nube privada es una infraestructura de nube local o externa operada únicamente para una organización. Puede ser
+gestionado por esa organización o por un tercero.
+
+*Nube pública:*
+
+Una nube pública está disponible para el público en general o para un gran grupo industrial, y es propiedad y está
+administrada por una organización que vende servicios en la nube.
+
+*Software como servicio (SaaS):*
+
+SaaS se refiere a un modelo de implementación de software en el que el software en línea se proporciona como un servicio
+a los clientes.
+
+Cuando escuche SaaS, piense en aplicaciones de suscripción alojadas o correo electrónico web, aplicaciones de Google o
+Dropbox.
+
+*Virtualización:*
+
+La virtualización es la creación de una versión virtual (en lugar de real) de algo como un servidor, un escritorio, un
+dispositivo de almacenamiento, un sistema operativo o recursos de red.
+
+*Máquina virtual:*
+
+Una máquina virtual (VM) es un programa de software o sistema operativo que se comporta como una computadora independiente
+que puede ejecutar aplicaciones y programas.
+
+*Carga de trabajo:*
+
+Una carga de trabajo es una capacidad discreta o una cantidad de trabajo que se ejecutará en la nube, como por ejemplo ofrecer
+un sitio web.
+
 ##### Carreras en computación en la nube, Infografía
 
 ##### Prueba tus conocimientos
