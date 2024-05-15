@@ -570,6 +570,109 @@ conexiones híbridas entre ellas.
 
 ##### La nube “como servicio”, Tres modelos de servicio
 
+**Computación en la nube: ¡a su servicio!**
+
+Cualquier servicio tradicional se puede entregar a través de la nube. Este concepto se denomina cualquier cosa como servicio
+o XaaS.
+
+Comparemos los tres modelos de servicios más populares de computación en la nube: software como servicio ( SaaS ),
+plataforma como servicio ( PaaS ) e infraestructura como servicio ( IaaS ). Aquí hay un diagrama que muestra los tipos de
+herramientas y datos que encajan en cada modelo.
+
+![alt text](image-19.png)
+
+*Software como servicio (SaaS).*
+
+Software como servicio (SaaS): alojar y entregar aplicaciones de software a través de Internet.Con SaaS, tanto el software
+como los datos residen en línea. Los usuarios pueden iniciar sesión en un navegador desde casi cualquier tipo de dispositivo
+en casi cualquier sistema operativo, ingresar lo que necesitan y aparece el resultado. Dado que su organización no necesita
+software especial para utilizar SaaS, no tiene que comprar aplicaciones. En cambio, paga suscripciones anuales o por usuario
+al servicio.
+
+![alt text](image-20.png)
+
+Puede visualizar SaaS como la cocina de otra persona. Te conectas a Internet y haces tu pedido. Ellos proporcionan la
+receta, cocinan la comida y te la entregan.
+
+Cuando escuche SaaS, piense en usos como el correo electrónico o las compras en línea.
+
+*Plataforma como servicio (PaaS).*
+
+Plataforma como servicio (PaaS): cree, ejecute y administre nuevas aplicaciones en la nubeCon PaaS, un proveedor proporciona
+solo la plataforma, es decir, la infraestructura, los sistemas operativos, el almacenamiento y gran parte del código. La
+organización del usuario gestiona los recursos y los datos de la aplicación. (Para obtener más información sobre la
+infraestructura, consulte la siguiente sección).
+
+![alt text](image-21.png)
+
+Puede visualizar PaaS como la cocina de otra persona. Pero tú proporcionas la comida cruda y la receta, y tú cocinas.
+
+Cuando escuche PaaS, piense en contenedores, bases de datos, tiempo de ejecución e integración.
+
+*Infraestructura como servicio (IaaS).*
+
+Infraestructura como servicio (IaaS): alojar y entregar infraestructura de computación en la nube, Las empresas recurren a
+IaaS cuando quieren crear sus propias aplicaciones desde cero o trasladar aplicaciones existentes desde un centro de datos a
+la organización para reducir los costos de TI. Con IaaS, un proveedor proporciona la infraestructura y la arquitectura, como
+hardware, software, servidores y almacenamiento, y también maneja costosos sistemas de soporte como respaldo, seguridad y
+mantenimiento. Esto deja la arquitectura informática de la organización en la web para que los equipos en diferentes
+ubicaciones puedan trabajar juntos, mientras se mantiene el desarrollo de aplicaciones dentro de la propia estructura en
+línea de la empresa.
+
+![alt text](image-22.png)
+
+Puede pensar en IaaS como su propia cocina, donde usted proporciona la receta y cocina, pero alguien más mantiene sus
+electrodomésticos y administra sus servicios públicos.
+
+Cuando escuche IaaS, piense en recursos informáticos, de almacenamiento y de redes.
+
+**¡Hay rumores en torno a la multinube!**
+
+Multicloud es el uso de más de una nube pública. Permite a una empresa elegir diferentes servicios de diferentes nubes
+públicas. Por ejemplo, la empresa podría combinar varios entornos IaaS públicos como IBM Cloud, Amazon Web Services y
+Microsoft Azure, para que no estén encerrados en un solo proveedor de nube. ¡La multinube requiere una planificación
+cuidadosa! Las organizaciones que lo consideren deben buscar un proveedor cuya arquitectura pueda escalar e integrarse con
+los sistemas existentes de la empresa.
+
+A qué se parece esto? Una empresa puede utilizar proveedores de nube separados para servicios de infraestructura (IaaS) y
+software (SaaS), o incluso utilizar varios proveedores de infraestructura (IaaS). Esa empresa podría utilizar diferentes
+proveedores de infraestructura para diferentes cargas de trabajo, equilibrar una única carga de trabajo entre varios
+proveedores o utilizar una única carga de trabajo en un proveedor respaldada por otro.
+
+**Nubes y premisas, ¿cuál es la diferencia?**
+
+A menudo la gente habla de nube pública y privada y las confunde con instalaciones. Por ejemplo, podrían pensar que la nube
+pública está fuera de las instalaciones (verdadero), mientras que la nube privada siempre está dentro de las instalaciones
+(falso).
+
+Fuera de las instalaciones es una solución que se ejecuta en hardware en una ubicación diferente a la de los usuarios
+finales. Esto se debe a que la mayoría de los proveedores de nube administran sus propios centros de datos fuera de las
+instalaciones de las organizaciones cuyos datos almacenan. Los administradores de sistemas de sus clientes tienen el mismo
+acceso a los datos que tendrían localmente.
+
+On-premise es una solución instalada y alojada internamente, generalmente respaldada por un tercero. A menudo, la nube
+privada local, también conocida como “nube interna”, está alojada dentro del propio centro de datos de una organización.
+Puede ser más fácil de proteger y mantener, pero de tamaño más limitado y más difícil de ampliar a medida que crece la
+organización.
+
+Algunos proveedores de nube ofrecen una solución híbrida . Esto significa que permiten a las empresas combinar las
+instalaciones en el centro de datos de la empresa con las instalaciones en el centro de datos del proveedor. Esto puede
+resultar útil si el negocio de una empresa llega en ráfagas. La empresa puede depender de su propio centro de datos la mayor
+parte del tiempo, pero expandirse al centro de datos del proveedor cuando la carga es alta.
+
+Esto es lo que confunde a la gente: una organización puede tener una nube privada ya sea dentro o fuera de las instalaciones.
+
+![alt text](image-23.png)
+
+Tómese un momento para analizar el siguiente gráfico y ver cómo una empresa podría tener capacidades tanto PaaS como IaaS:
+
+Una nube privada local (2 y 3 en el gráfico)
+Una nube privada fuera de las instalaciones (4 y 5)
+Una nube pública (6 y 7)
+
+Los vendedores de IBM se refieren a estos entornos como locales, dedicados y públicos . Tómate un momento para reflexionar
+sobre estas combinaciones ahora.
+
 ##### Terminología de computación en la nube, conocer la jerga
 
 ##### Carreras en computación en la nube, Infografía
