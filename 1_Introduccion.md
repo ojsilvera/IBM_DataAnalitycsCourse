@@ -566,6 +566,8 @@ IBM ha creído durante mucho tiempo que la mayoría de las empresas necesitan un
 ayudar a los clientes en su viaje a la nube, sin importar su punto de partida: nube privada, nube pública o varios tipos de
 conexiones híbridas entre ellas.
 
+![alt text](image-18.png)
+
 ##### La nube “como servicio”, Tres modelos de servicio
 
 ##### Terminología de computación en la nube, conocer la jerga
