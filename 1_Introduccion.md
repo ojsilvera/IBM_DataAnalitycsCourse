@@ -477,6 +477,39 @@ News de IBM.
 
 #### Que es cloud computing?
 
+##### Introducción Cloud computing
+
+**¡“La nube” no es una nube!**
+
+Esto no es una nube. Así es un coche protegido de las tormentas por una compañía de seguros que conoce el tiempo hasta la
+manzana cuadrada. Se trata de un diamante rastreado en una Blockchain protegido contra fraude, robo y tráfico. Se trata de
+una transacción financiera segura contra ataques y amenazas que otros no pueden ver. Esto es un El historial médico del
+paciente está seguro y al mismo tiempo está disponible para su médico al alcance de su mano. Esto es un asteroide
+transmitido en vivo a millones de espectadores desde 220 millas sobre la Tierra. Se trata de IA entrenada por expertos en 20
+industrias. Tu industria. Hola. Esta no es la nube que conoces. Esta es la nube de IBM. Creado para su negocio. Diseñado
+para tus datos. Seguro hasta la médula. IBM Cloud es la nube para empresas. Su Nube.
+
+Como aprendiste en este video, “la nube” no es una niebla de gotas de agua; es una vasta colección de datos. Escuelas,
+empresas, centros de salud e incluso gobiernos están trasladando su información a la nube para almacenarla de forma segura y
+hacerla accesible en línea.
+
+**Pero aquí tienes una pregunta para que pienses...**
+
+¿Sí o no? Si una organización coloca algo en la nube, ¿eso significa que los datos están fuera de sus instalaciones en
+alguna parte?
+
+![alt text](image-16.png)
+
+##### Entonces, ¿qué es la computación en la nube?, Cómo funciona
+
+##### La nube “como servicio”, Tres modelos de servicio
+
+##### Terminología de computación en la nube, conocer la jerga
+
+##### Carreras en computación en la nube, Infografía
+
+##### ¡Prueba tus conocimientos!
+
 #### Como se utiliza el cloud computing?
 
 ### Inteligencia Artificial (IA)
