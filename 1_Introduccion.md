@@ -502,6 +502,70 @@ alguna parte?
 
 ##### Entonces, ¿qué es la computación en la nube?, Cómo funciona
 
+**¿Como funciona?**
+
+Aquí está la respuesta corta: la computación en la nube almacena y procesa información a través de Internet en lugar de
+hacerlo en el disco duro de una computadora.
+
+¿Por qué hacer esto? Porque al compartir recursos informáticos en línea en lugar de depender del almacenamiento y las
+computadoras locales, la nube puede lograr dos cosas:
+
+Puede almacenar y procesar cantidades mucho mayores de información mucho más rápido. Puede ofrecer resultados a cualquier
+dispositivo que pueda iniciar sesión en Internet, no sólo a un teléfono, tableta, computadora o conjunto de terminales
+locales. Trabajas con servicios en la nube todos los días, cada vez que accedes a proveedores o servicios, como Netflix,
+Dropbox, Microsoft Office Online, iTunes, la lista sigue y sigue….
+
+Siempre que un servicio no requiera que usted esté físicamente cerca del hardware de almacenamiento, puede entregarle
+información desde la nube. ¿Depositar un cheque a través de su teléfono? ¿Subir una foto para tus amigos? ¡Estás en la nube!
+
+No cometer errores. Los datos todavía se almacenan en el hardware. Pero ese hardware podría haber abandonado el edificio.
+Puede tomar dos formas:
+
+Un servidor físico es un disco duro o banco de memoria dedicado a un grupo de usuarios o un tipo de datos.
+
+Un servidor virtual es una porción única de ese pastel: una región controlada por software en un servidor físico cuyas
+otras regiones son compartidas por otros usuarios. Debido a que compartir divide un servidor físico en varios servidores
+virtuales, se llama virtualización .
+
+**Los servicios en la nube toman tres formas:**
+
+Todos conocemos los términos público, privado e híbrido , pero tienen significados especiales cuando se aplican a los
+servicios en la nube.
+
+![alt text](image-17.png)
+
+*Las nubes públicas comparten espacio de almacenamiento e informática.*
+
+Las nubes públicas pertenecen y son operadas por empresas que ofrecen a sus clientes un acceso rápido a recursos
+informáticos asequibles. Este es el modelo clásico de computación en la nube, en el que las pequeñas empresas y los
+individuos como usted pueden acceder a una gran potencia informática a través de Internet. Es fácil de escalar cuando los
+usuarios necesitan más energía o almacenamiento. Debido a que muchos usuarios trabajan dentro de un gran banco de
+información pero sus datos deben mantenerse separados y seguros, este tipo de nube está organizada mediante lo que se llama
+arquitectura multiinquilino.
+
+*Las nubes privadas protegen la información de una sola entidad.*
+
+Una nube privada se opera para una sola organización. Puede ser alojado y administrado por esa organización o por un
+proveedor, y sus servidores pueden residir dentro o fuera de la propia organización. Por supuesto, esta privacidad también
+significa que a medida que se expanden los datos de una nube privada, la organización tiene que instalar más y más
+servidores privados. Las organizaciones prefieren una nube privada si necesitan un control estricto sobre dónde se guardan
+sus datos, cómo se organizan y cómo se protegen. Las nubes privadas pueden ser muy seguras, ¡pero son caras!
+
+*Las nubes híbridas dividen su almacenamiento en porciones privadas.*
+
+¿Qué pasa si una empresa necesita el bajo costo y la escalabilidad de una nube pública, pero también necesita un entorno
+seguro para el desarrollo de productos o datos confidenciales? Estas organizaciones terminan distribuyendo sus cargas de
+trabajo entre centros de datos, nubes privadas y nubes públicas, creando así nubes híbridas.
+
+Una nube híbrida mezcla recursos públicos y privados. Es un poco de esto y un poco de aquello, con algunos datos en una nube
+pública y otros en una nube privada, proporcionados por múltiples proveedores que ofrecen diferentes niveles de uso de la
+nube. La combinación de servidores físicos y virtuales de una nube híbrida permite a las organizaciones alquilar lo que
+necesitan, según demanda, lo que les ayuda a controlar los costos y al mismo tiempo les brinda cierta flexibilidad.
+
+IBM ha creído durante mucho tiempo que la mayoría de las empresas necesitan una nube híbrida. Hemos demostrado liderazgo al
+ayudar a los clientes en su viaje a la nube, sin importar su punto de partida: nube privada, nube pública o varios tipos de
+conexiones híbridas entre ellas.
+
 ##### La nube “como servicio”, Tres modelos de servicio
 
 ##### Terminología de computación en la nube, conocer la jerga
