@@ -1254,6 +1254,18 @@ automovilísticos, identificar el tipo de vehículo involucrado y sus daños, y 
 
 #### La inteligencia artificial en la practica
 
+##### Introducción IA en la practica
+
+##### La IA puede comunicarse, Hablando natualmente
+
+##### La IA puede ayudarte a hacer cosas, Conducir y comprar
+
+##### La IA puede resolver problemas, Salvando vidas
+
+##### La IA puede jugar, ¡No sólo por diversión
+
+##### La IA puede ampliar la experiencia humana, Haciéndonos más inteligentes
+
 ### Ciberseguridad
 
 ### Blockchain
