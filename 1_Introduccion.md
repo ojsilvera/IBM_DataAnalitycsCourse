@@ -828,7 +828,82 @@ IBM.
 
 ##### La nube ayuda a las empresas a prosperar, Tres valores principales
 
+Los beneficios de la computación en la nube varían según cómo la utilice cada empresa. Toda empresa quiere controlar los
+costes. Más allá de eso, diferentes empresas tienen diferentes requisitos. Podemos resumir los beneficios de la nube en tres
+frases: flexibilidad, eficiencia y valor estratégico:
+
+Flexibilidad : los usuarios pueden escalar los servicios en la nube para adaptarlos a sus necesidades, personalizar
+aplicaciones y acceder a Internet para trabajar en cualquier momento y en cualquier lugar.
+
+Eficiencia : los usuarios empresariales pueden llevar aplicaciones al mercado rápidamente, sin preocuparse por el alto
+costo de la infraestructura o el mantenimiento.
+
+Valor estratégico : los servicios en la nube ayudan a las empresas a competir con la tecnología más actualizada.
+
+**La nube mejora la innovación.**
+
+¡La innovación mantiene a las empresas a la vanguardia de la tecnología! Piense en las innovaciones que han transformado su
+propia vida: teléfonos que ponen computadoras en su bolsillo, automóviles que lo guían por caminos desconocidos,
+inteligencia artificial (IA) que ayuda a los médicos a elegir mejores tratamientos para su familia.
+
+Las innovaciones técnicas dependen de la nube, lo que la convierte en la puerta de entrada a la IA, la cadena de bloques, el
+Internet de las cosas (IoT) e incluso la computación cuántica. Para mantenerse a la vanguardia, las empresas necesitan la
+nube y su gestión de la información rápida y fácil de actualizar.
+
 ##### La nube nos ayuda a todos, Mini-cuestionario
+
+Quizás recuerdes que la nube se presenta en tres formas:
+
+SaaS (software como servicio)
+PaaS (plataforma como servicio)
+IaaS (infraestructura como servicio)
+Los tres modelos de servicio impactan nuestras vidas.
+
+![alt text](image-29.png)
+
+**Software como servicio (SaaS).**
+
+Software como servicio (SaaS): alojar y entregar aplicaciones de software a través de Internet. Recuerde, SaaS es un modelo
+de distribución de software en el que un proveedor externo aloja aplicaciones y las pone a disposición de los clientes a
+través de Internet.
+
+En el modelo SaaS, la computación en la nube permite a los consumidores y empresas utilizar aplicaciones sin instalarlas
+localmente y acceder a archivos personales a través de Internet desde cualquier computadora. Esto hace que la informática
+sea más eficiente porque centraliza el almacenamiento, la memoria, el procesamiento y el ancho de banda.
+
+*¿Cómo cambia esto tu vida?*
+
+Consulta el correo electrónico en Gmail, carga imágenes en DropBox, compra música en iTunes, almacena archivos en Google
+Drive, crea con software como Office 365 o Photoshop, asiste a videoconferencias con Webex o organiza viajes con Expedia.
+Estos servicios conectan a los consumidores (¡ese es usted!) con las empresas.
+
+**Plataforma como servicio (PaaS).**
+
+Plataforma como servicio (PaaS): cree, ejecute y administre nuevas aplicaciones en la nube. Un proveedor de PaaS proporciona
+herramientas de hardware y software a través de Internet, y la gente utiliza estas herramientas para desarrollar
+aplicaciones. PaaS es más importante para los desarrolladores que crean aplicaciones de software. PaaS les libera de tener
+que instalar hardware y software internos para desarrollar o ejecutar sus nuevas aplicaciones.
+
+*PaaS tiene menos impacto en usted personalmente, en el sentido de que la usará con menos frecuencia.*
+
+Pero empresas como IBM, Google, Amazon y Microsoft tienen ofertas de PaaS que los desarrolladores pueden utilizar para
+desarrollar e implementar rápidamente aplicaciones en la nube. A los desarrolladores les encanta esto no sólo porque
+facilita mucho el acceso y las pruebas, sino porque no tienen que invertir ni aprender a gestionar la infraestructura que
+ejecuta esas aplicaciones. ¿Y qué cosas desarrollan estas empresas, desde Internet de las cosas hasta compras, electrónica y
+software creativo? Los estás experimentando ahora mismo mientras lees este texto.
+
+**Infraestructura como servicio (IaaS).**
+
+Infraestructura como servicio (IaaS): alojar y entregar infraestructura de computación en la nubeIaaS ofrece servicios como
+almacenamiento de pago por uso, redes, servidores y virtualización. IaaS ofrece a los usuarios alternativas basadas en la
+nube a la infraestructura local, para que las empresas puedan evitar invertir en costosos recursos locales.
+
+¡Esto es particularmente útil para pequeñas y medianas empresas! Les permite pagar por un plan de hosting que satisfaga sus
+propias necesidades, sin el alto costo de mantener sus propios servidores físicos.
+
+¿Cómo te afecta esto personalmente? Intente visitar un negocio del vecindario donde conozca a un empleado de tiempo parcial
+o completo. Pregúnteles qué parte de su operación implica una conexión a Internet. Luego pregúntese cómo ese negocio afecta
+su vida o la de las personas que conoce.
 
 ##### La computación en la nube y tú, Explora más
 
