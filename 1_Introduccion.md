@@ -796,9 +796,15 @@ incluyen en la siguiente infografía.
 
 ![alt text](image-28.png)
 
-##### Prueba tus conocimientos
-
 #### Como se utiliza el cloud computing?
+
+##### Introducción, nube en el trabajo
+
+##### La nube ayuda a las empresas a prosperar, Tres valores principales
+
+##### La nube nos ayuda a todos, Mini-cuestionario
+
+##### La computación en la nube y tú, Explora más
 
 ### Inteligencia Artificial (IA)
 
