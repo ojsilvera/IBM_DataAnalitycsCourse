@@ -1614,6 +1614,19 @@ mensaje utilizando una clave pública que sólo el destinatario, con su clave pr
 
 ##### Carreras en ciberseguridad, Infografía
 
+La ciberseguridad abarca todos los roles laborales e industrias, y todas las empresas necesitan algún tipo de solución de
+seguridad. Quizás se pregunte qué habilidades necesita para enfrentar las amenazas a la seguridad o cuáles son los trabajos
+interesantes en este campo. Las respuestas a estas preguntas, además de algunos datos más, se incluyen en la siguiente
+infografía y artículo.
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
 #### como se utiliza la ciberseguuridad
 
 #### IBM y ciberseguuridad
