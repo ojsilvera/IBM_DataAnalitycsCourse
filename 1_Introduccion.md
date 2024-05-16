@@ -1166,6 +1166,92 @@ campo. Las respuestas a estas preguntas, además de algunos datos más, se inclu
 
 ##### Aprende la jerga, ¡Muestra lo que sabes
 
+Te encontrarás con mucha jerga cuando hables de IA. Aquí tienes una guía rápida de términos comunes que querrás conocer.
+
+Haga clic en las secciones para revisar los términos:
+
+**Algoritmos.**
+
+Los algoritmos son instrucciones matemáticas escritas por científicos de datos que le dicen a la máquina cómo encontrar
+soluciones a un problema. Cuando una pequeña selección de datos (llamados datos de entrenamiento) se ejecuta repetidamente a
+través de un algoritmo, cada vez modificado por un científico de datos hasta que sus resultados sean confiablemente
+precisos, el resultado es un modelo que la máquina puede usar para aprendizaje adicional por sí misma.
+
+**chatbot.**
+
+Un chatbot es un programa informático diseñado para simular una conversación con usuarios humanos, especialmente a través de
+Internet. Se trata de un asistente que se comunica con nosotros a través de mensajes de texto o de voz y se integra como
+compañero virtual en sitios web, aplicaciones o mensajería instantánea.
+
+**Datos.**
+
+Los datos  alimentan la IA. Permite que los sistemas de IA revelen patrones, tendencias y asociaciones con confianza.
+Algunos datos están estructurados, lo que significa que se han organizado en un formato que las computadoras pueden leer y
+analizar fácilmente, como una base de datos o un archivo de Excel. Otros datos no están estructurados, como tweets, archivos
+PDF y archivos de vídeo.
+
+**Aprendizaje profundo.**
+
+El aprendizaje profundo (DL) es un grupo de redes neuronales (que son, a su vez, grupos de modelos de aprendizaje
+automático). El aprendizaje profundo puede encontrar patrones en estructuras de datos complejas como imágenes, videos y
+sonidos. Muchos de sus modelos no necesitan entrenamiento explícito para encontrar una solución, lo que los hace excelentes
+para resolver problemas demasiado grandes y complejos para que los diseñen humanos. El aprendizaje profundo se ha utilizado
+para entrenar vehículos autónomos, detectar fraudes e incluso crear vídeos "deepfake" de celebridades populares.
+
+**Aprendizaje automático.**
+
+El aprendizaje automático (ML) es el motor de un sistema de IA. Describe máquinas que aprenden sin instrucciones explícitas
+sobre cómo realizar tareas. A menudo depende de modelos: artefactos entrenados que guían a las máquinas cuando interpretan
+nuevos datos. Los modelos representan patrones de datos y ayudan a un sistema de aprendizaje automático a hacer predicciones
+sin que le digan cómo hacerlo.
+
+**Procesamiento natural del lenguaje.**
+
+El procesamiento del lenguaje natural (PNL) es la capacidad de un programa informático para comprender el lenguaje humano
+tal como se habla. La PNL puede entrenar computadoras para procesar grandes cantidades de texto humano, como periódicos o
+conversaciones, comprendiendo la intención y el significado de esos datos. Con la PNL, una máquina puede responder a los
+humanos con matices y comprensión. Un ejemplo común de PNL es un chatbot de servicio al cliente.
+
+**Redes neuronales.**
+
+Las redes neuronales son grupos de modelos de aprendizaje automático. Simulan las células cerebrales densamente
+interconectadas del cerebro humano. Pueden aprender cosas, reconocer patrones y tomar decisiones sin tener que ser
+programados explícitamente. Las redes neuronales son capaces de encontrar patrones dentro de datos que son tan complejos que
+ningún ser humano podría programar su análisis.
+
+**Aprendizaje reforzado.**
+
+El aprendizaje por refuerzo es un tipo de modelo de aprendizaje automático que no proporciona a la máquina ningún dato,
+etiquetado o no. En cambio, la máquina intenta diferentes acciones y recibe señales de recompensa (¡como galletas para un
+perro!) cuando realiza los movimientos correctos. De esta forma el sistema está capacitado para resolver un problema, sin
+necesidad de trabajo humano.
+
+**Reconocimiento de voz.**
+
+El reconocimiento de voz es una tecnología que puede reconocer palabras habladas, que luego pueden convertirse en texto o
+ejecutar un comando hablado. Un subconjunto del reconocimiento de voz es el reconocimiento de voz, que es la tecnología para
+identificar a una persona según su voz.
+
+**Aprendizaje supervisado.**
+
+El aprendizaje supervisado es un tipo de modelo de aprendizaje automático que proporciona a la máquina un conjunto de datos
+altamente precisos que han sido etiquetados por un humano. La máquina utiliza este modelo para reconocer cosas relacionadas
+en conjuntos de datos no entrenados.
+
+**Aprendizaje sin supervisión.**
+
+El aprendizaje no supervisado es un tipo de modelo de aprendizaje automático que no proporciona a la IA ningún dato
+etiquetado. En cambio, le proporciona a la IA datos sin etiquetar, y la IA sugiere varias formas de agruparlos y
+organizarlos. Esto es valioso cuando los datos son tan grandes o complejos que los humanos no pueden identificar sus
+patrones por sí mismos.
+
+**Reconocimiento visual.**
+
+El reconocimiento visual , también conocido como visión por computadora, es un subcampo de la IA centrado en entrenar
+computadoras para comprender e interpretar imágenes y videos. Los modelos de reconocimiento visual aprenden a identificar
+objetos, personas o atributos individuales en una imagen. Por ejemplo, un modelo podría ayudar a evaluar los accidentes
+automovilísticos, identificar el tipo de vehículo involucrado y sus daños, y luego estimar el costo de reparación.
+
 #### La inteligencia artificial en la practica
 
 ### Ciberseguridad
