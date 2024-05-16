@@ -894,7 +894,7 @@ software creativo? Los estás experimentando ahora mismo mientras lees este text
 
 **Infraestructura como servicio (IaaS).**
 
-Infraestructura como servicio (IaaS): alojar y entregar infraestructura de computación en la nubeIaaS ofrece servicios como
+Infraestructura como servicio (IaaS): alojar y entregar infraestructura de computación en la nube IaaS ofrece servicios como
 almacenamiento de pago por uso, redes, servidores y virtualización. IaaS ofrece a los usuarios alternativas basadas en la
 nube a la infraestructura local, para que las empresas puedan evitar invertir en costosos recursos locales.
 
@@ -906,6 +906,71 @@ o completo. Pregúnteles qué parte de su operación implica una conexión a Int
 su vida o la de las personas que conoce.
 
 ##### La computación en la nube y tú, Explora más
+
+La computación en la nube es una tecnología de moda con una gran demanda de profesionales calificados. ¡Esto podría
+incluirte a ti! Para conseguir un trabajo en este campo, necesitas habilidades específicas. Veamos qué puede ayudarle a
+prepararse para una carrera en informática en la nube.
+
+Ahora mismo, solo o en un club de informática, puedes empezar a aprender un lenguaje de programación importante para
+trabajar en la nube. Python, Perl y Ruby son de código abierto y cada año se vuelven más populares. Otros "viejos favoritos"
+incluyen PHP, Java y .NET.
+
+¿Ya tienes experiencia en programación? Los principales proveedores como Amazon y Microsoft ejecutan programas de
+capacitación y certificación que pueden hacerlo atractivo para las empresas de tecnología. Considere obtener credenciales en
+temas como IBM Cloud Certification, AWS Certification, Azure Certification y Google Cloud Certified.
+
+A medida que su carrera cobre impulso, desarrollará sus certificaciones con experiencia práctica en algunas de las
+plataformas en la nube más comunes:
+
+    Servicios web de Amazon
+    nube de ibm
+    Plataforma en la nube de Google
+    MicrosoftAzure
+
+Puede comenzar ahora, incluso si eso solo significa buscar en línea más información sobre la tecnología en la nube. Luego
+contactas a un profesor o alguien que trabaja en una empresa tecnológica, luego te unes a un club de informática... y a
+partir de ahí, ¡el cielo es el límite para tu desarrollo!
+
+**¿Listo para aprender más?**
+
+Comience aprendiendo un lenguaje de programación o una tecnología específica en la que pueda obtener una certificación. Los
+cursos universitarios y en línea son una excelente manera de mejorar sus habilidades. Piense en realizar una pasantía: una
+excelente manera de ver si esta tecnología es adecuada para usted.
+
+*Mire hacia el futuro hacia una carrera profesional en la nube.*
+
+Los roles tecnológicos evolucionan a medida que evolucionan la tecnología y las aplicaciones. Pero una carrera en la nube en
+IBM puede llevarlo a muchas carreras profesionales y especialidades técnicas interesantes. ¡Imagínese trabajar en
+inteligencia artificial (IA), Internet de las cosas (IoT) o blockchain! Todas estas tecnologías utilizan el poder de la
+nube. Considere algunas de estas funciones de la computación en la nube:
+
+Un arquitecto de la nube supervisa el enfoque de computación en la nube de una empresa.
+
+Un ingeniero de la nube es un rol multidisciplinario responsable de administrar las capacidades de la nube de una empresa.
+El puesto suele implicar la implementación y gestión de los modelos de prestación de servicios en la nube (IaaS, PaaS y
+SaaS).
+
+Un desarrollador o ingeniero de software en la nube es responsable de diseñar y desarrollar aplicaciones, productos y
+servicios seguros en la nube.
+
+**¿Qué más puedes hacer para desarrollar tus habilidades de computación en la nube?**
+
+Los blogueros de IBM son un gran recurso para obtener una perspectiva más profunda sobre la computación en la nube. Vuelva a
+consultar de vez en cuando para ver la computación en la nube en acción en todo el mundo.
+
+Revise el sitio Thoughts on Cloud para obtener más información sobre la computación en la nube y ejemplos de servicios de
+IBM Cloud en funcionamiento.
+
+<https://www.ibm.com/blogs/cloud-computing/>
+
+**¡Más artículos para que los revises hoy!**
+
+Profundice en la tecnología de computación en la nube y conozca posibles carreras en este campo con estos artículos de IBM
+Thoughts on Cloud:
+
+<https://www.ibm.com/blogs/cloud-computing/2019/09/02/cloud-social-change/?ite=69293&ito=2166&itq=dc9728f8-e287-4025-ae2e-9ea4eecf15bd&itx%5Bidio%5D=48377951>
+
+<https://www.ibm.com/blogs/cloud-computing/2014/02/06/top-7-most-common-uses-of-cloud-computing/>
 
 ### Inteligencia Artificial (IA)
 
