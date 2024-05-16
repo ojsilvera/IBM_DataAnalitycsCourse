@@ -974,6 +974,10 @@ Thoughts on Cloud:
 
 ### Inteligencia Artificial (IA)
 
+#### Que es la inteligencia artifical
+
+#### La inteligencia artificial en la practica
+
 ### Ciberseguridad
 
 ### Blockchain
