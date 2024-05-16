@@ -1060,9 +1060,109 @@ débil supera a los humanos en tareas estrechamente definidas. Piense en un chat
 cliente, reconocimiento facial en Facebook, recomendaciones de compra en Amazon o aplicaciones que pueden convertir voz en
 texto. Alexa, Google Assistant y Siri demuestran una IA débil.
 
+*Inteligencia aumentada.*
+
+La inteligencia aumentada complementa la inteligencia humana y ayuda a los humanos a tomar mejores decisiones. No reemplaza
+a los humanos. En cambio, aumenta su experiencia y mejora su productividad. IBM Watson for Oncology, por ejemplo, ayuda a
+los profesionales de la salud a identificar información clave en los registros médicos de un paciente con cáncer y
+recomienda varios tratamientos posibles junto con estimaciones de cómo podría funcionar cada uno. Sus recomendaciones son
+excelentes, basadas en investigaciones constantemente actualizadas en la ciencia del cáncer. Pero no elige el tratamiento
+del paciente. Eso depende del profesional de la salud. En otras palabras, la inteligencia aumentada ayuda a los humanos a
+ser más rápidos e inteligentes en las tareas que realizan.
+
+*IA general.*
+
+La IA general aún no existe. Pero cuando lo haga, será una forma de “emulación de todo el cerebro”, en la que una máquina
+podrá pensar y tomar decisiones sobre muchos temas diferentes. Manejará las computadoras que se ven en videos de ciencia
+ficción, hablará con humanos sobre muchos temas, mientras opera ciudades o naves espaciales enteras. Hoy en día, la IA
+general es un objetivo más que una tecnología práctica. Se necesitarán décadas de investigación adicional y computadoras más
+potentes para lograrlo.
+
+**¿Quizás también hayas oído hablar del aprendizaje automático y del aprendizaje profundo?**
+
+A continuación, exploremos términos importantes que describen formas en que la IA puede resolver problemas complejos. El
+siguiente gráfico proporciona un buen resumen de la relación entre la IA, el aprendizaje automático y el aprendizaje
+profundo.
+
+![alt text](image-30.png)
+
+*Inteligencia artificial.*
+
+La inteligencia artificial describe máquinas que ejercitan capacidades normalmente asociadas con la inteligencia humana. La
+investigación actual en IA se centra en el aprendizaje, el razonamiento, la resolución de problemas, la percepción y la
+comprensión del lenguaje humano. En el próximo curso aprenderá más sobre cómo los avances en IA nos ayudarán a ser todos más
+inteligentes, comunicarnos, resolver problemas de la sociedad y cambiar la forma en que trabajamos.
+
+*Aprendizaje automático.*
+
+El aprendizaje automático , o ML, utiliza algoritmos para aprender de los datos. Dada una entrada de datos, ML puede
+realizar análisis estadísticos para determinar una salida. Como ocurre con cualquier tipo de informática, cuantos más datos
+se le proporcionen a la máquina (suponiendo que estos datos sean válidos), más preciso será su resultado. ¡ML utiliza
+capacidades similares a las humanas, como análisis, autoformación, observación y experiencia, para aprender sin estar
+programado explícitamente!
+
+El aprendizaje automático se presenta en tres versiones: aprendizaje supervisado, aprendizaje no supervisado y aprendizaje
+por refuerzo. ML se basa en estos tres tipos de algoritmos. La aplicación de cualquiera de estos algoritmos depende de la
+relación con los datos disponibles que está procesando, el resultado que necesita de su modelo o tal vez incluso la
+posibilidad de retroalimentar datos para mejorar el algoritmo. Si suena complicado, lo es.
+
+Un aspecto sorprendente del aprendizaje automático es su capacidad de modificarse cuando se expone a más datos. ¡Es dinámico
+y no requiere intervención humana para realizar cambios! Entonces, a medida que se expone a más datos, continúa aprendiendo
+y mejorando sus resultados.
+
+El aprendizaje automático es lo que impulsó al banco a ponerse en contacto con usted para saber si alguien podría utilizar
+información robada de su tarjeta de crédito. Pero no es perfecto. El aprendizaje automático también es lo que desestimó tus
+recomendaciones de Netflix después de que alguien de tu familia vio una comedia extraña en tu cuenta.
+
+*Aprendizaje profundo.*
+
+El aprendizaje profundo , o DL, es una subcategoría del aprendizaje automático que se centra en modelos estadísticos cuando
+resuelve problemas. Utiliza una red neuronal artificial, hecha de algoritmos inspirados en el cerebro humano, mientras
+resuelve problemas complejos realizando tareas una y otra vez miles de veces, modificándolas un poco cada vez para mejorar
+el resultado. DL requiere big data y una enorme potencia informática, pero tiene un enorme potencial a medida que avanzamos
+hacia el objetivo de la IA general.
+
+Imagine la complejidad de las decisiones para realizar tareas de clasificación directamente a partir de imágenes, texto o
+sonido con una precisión que podría superar el desempeño humano. ¿Qué tal los coches sin conductor?
+
+El aprendizaje profundo es una tecnología clave detrás de los automóviles sin conductor, que permite a la computadora
+reconocer una señal de alto o distinguir a un peatón de una farola.
+
 ##### Otras tecnologías ayudan a la IA, Es mutuo
 
+La IA creará nuevas oportunidades para la sociedad, las empresas y los consumidores. Pero para que la IA se adopte más
+ampliamente, otras tecnologías habilitadoras deben madurar junto con ella.
+
+La nube, por ejemplo, ya está ayudando a las empresas a acceder y compartir potencia informática que normalmente no podrían
+permitirse. Esta tecnología compartida, a su vez, permitirá a esas empresas operar nuevos algoritmos de entrenamiento y
+gestión de datos requeridos por la IA.
+
+Otras tecnologías emergentes también serán vitales para el crecimiento de la IA. El reconocimiento visual, el procesamiento
+del lenguaje natural, el análisis predictivo e incluso el Internet de las cosas (IoT) potenciarán la IA, lo que conducirá a
+nuevas aplicaciones en dispositivos médicos, seguridad, servicio al cliente y más.
+
+A medida que avance su carrera en informática, verá surgir tecnologías completamente nuevas que obtienen su fuerza de la
+inteligencia artificial.
+
 ##### Carreras en inteligencia artificial, Infografía
+
+Ahora ya comprende que la tecnología de inteligencia artificial está en todas partes. Quizás se pregunte qué industrias
+necesitarán expertos en IA, qué habilidades técnicas podrían estar en demanda o cuáles son los trabajos interesantes en este
+campo. Las respuestas a estas preguntas, además de algunos datos más, se incluyen en la siguiente infografía y artículo.
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+![alt text](image-35.png)
+
+![alt text](image-36.png)
+
+![alt text](image-37.png)
 
 ##### Aprende la jerga, ¡Muestra lo que sabes
 
