@@ -1372,7 +1372,89 @@ complicados y de rápido movimiento cuyas soluciones nos llevan a nuevas e impor
 
 ##### La IA puede ampliar la experiencia humana, Haciéndonos más inteligentes
 
+**Aumento de inteligencia.**
+
+Hay otra forma de ver la inteligencia artificial: en lugar de tomar decisiones por nosotros, podemos diseñarla para
+ayudarnos a tomar mejores decisiones. A esto lo llamamos  aumento de inteligencia .  Se refiere al desarrollo de
+herramientas computarizadas que complementan el pensamiento humano.
+
 ### Ciberseguridad
+
+#### Que es la ciberseguridad
+
+##### Introducción a la ciberseguridad
+
+**¡Bienvenido a la ciberseguridad para principiantes!**
+
+Su objetivo es aprender terminología, conceptos y funciones clave en el campo de la ciberseguridad, incluidos temas como
+cifrado, criptografía y ciberataques. Este curso incluye tres videos para ayudarlo a ponerse al día con estos temas. Al
+final, pondrás a prueba tus conocimientos con un cuestionario. Para comenzar, haga clic en ¡ Lo revisé!
+
+##### La seguridad cibernética
+
+Si bien las computadoras se han interconectado y nos permiten comunicarnos en todo el mundo, no todos los que usan estas
+redes siguen las reglas o tienen en mente nuestros mejores intereses. ¡Aprenda sobre contraseñas, datos biométricos,
+piratería y más!
+
+Sumérgete de cabeza en el fascinante y vertiginoso mundo de la ciberseguridad con este vídeo de Crash Course.
+
+<https://youtu.be/bPVaOlJ6ln0>
+
+*Conclusiones clave.*
+
+La ciberseguridad ayuda a minimizar los delitos y los daños en el mundo virtual. Piense en ello como un conjunto de técnicas
+para proteger el secreto, la integridad y la disponibilidad de los sistemas informáticos y los datos contra amenazas.
+
+La autenticación se refiere al proceso mediante el cual una computadora comprende con quién está interactuando. Hay tres
+tipos de autenticación: lo que sabes, lo que tienes y lo que eres.
+
+A menudo, los expertos en seguridad sugieren utilizar dos o más formas de autenticación (autenticación de dos factores o de
+múltiples factores) para cuentas importantes.
+
+Los permisos o listas de control de acceso (ACL) describen el acceso que tiene cada usuario para ver o modificar cualquier
+archivo, carpeta o programa en una computadora.
+
+El software malicioso llamado malware puede hacer que un programa o sistema informático sea vulnerable a ataques que copian
+datos del usuario y permiten a los piratas informáticos disfrazarse del usuario.
+
+##### Hackers y ciberataques
+
+Este vídeo analiza algunos ejemplos clásicos de las formas en que los piratas informáticos irrumpen en los sistemas
+informáticos. Sumérgete en el fascinante y vertiginoso mundo de la ciberseguridad con esta inmersión profunda en los hackers
+de “Sombrero Negro” y “Sombrero Blanco”, y las estrategias que utilizan para el bien y el mal.
+
+<https://youtu.be/_GzE99AmAQU>
+
+*Conclusiones clave.*
+
+Los piratas informáticos utilizan sus conocimientos técnicos para acceder a los sistemas informáticos. Los piratas
+informáticos Black Hat tienen intenciones maliciosas de robar, explotar y vender vulnerabilidades y datos informáticos.
+
+Los hackers de sombrero blanco son contratados por empresas y gobiernos para realizar evaluaciones de seguridad, buscar
+errores e intentar cerrar agujeros de seguridad en el software para hacer que los sistemas sean más seguros y resistentes.
+
+Algunos piratean por diversión y curiosidad, mientras que los ciberdelincuentes piratean con mayor frecuencia para obtener
+ganancias monetarias. Los miembros de la comunidad hacktivista utilizan sus habilidades para promover un objetivo social o
+político.
+
+Los atacantes encuentran y aprovechan un error en un sistema para obtener acceso a los sistemas informáticos y sobrescribir
+datos, robar datos de usuario, bloquear sistemas o incluso utilizar ese error explotable para secuestrar todo el sistema.
+
+Un nuevo error explotable que los creadores de software desconocen se llama vulnerabilidad de día cero. Los hackers de Black
+Hat se apresuran a utilizar el exploit para obtener el máximo beneficio antes de que los programadores de White Hat puedan
+lanzar un parche para el error.
+
+Es importante mantener actualizado el software de la computadora, especialmente con los parches de seguridad. Los errores
+que se dejan abiertos en suficientes sistemas permiten a los piratas informáticos escribir un programa llamado "gusano" que
+salta automáticamente de una computadora a otra.
+
+##### Criptografía
+
+##### Carreras en ciberseguridad, Infografía
+
+#### como se utiliza la ciberseguuridad
+
+#### IBM y ciberseguuridad
 
 ### Blockchain
 
