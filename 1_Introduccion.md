@@ -1450,6 +1450,28 @@ salta automáticamente de una computadora a otra.
 
 ##### Criptografía
 
+**Conclusiones clave.**
+
+Las formas más comunes de seguridad informática se conocen como criptografía. Los arquitectos de sistemas emplean estas
+estrategias para mantener la información en secreto y frustrar a los atacantes.
+
+Un cifrado es un algoritmo que convierte texto sin formato en texto cifrado, lo cual no tiene sentido a menos que tenga una
+clave que le permita deshacer el cifrado. El proceso de hacer que el texto sea secreto se llama cifrado y el proceso inverso
+se llama descifrado.
+
+Las técnicas criptográficas se basan en claves conocidas tanto por el remitente como por el destinatario. El remitente cifra
+un mensaje utilizando una clave y el destinatario lo descifra utilizando la misma clave.
+
+El intercambio de claves utiliza un algoritmo que permite que dos computadoras acuerden una clave sin tener que enviarla,
+utilizando funciones unidireccionales (operaciones matemáticas) que son fáciles de realizar en una dirección, pero difíciles
+de revertir.
+
+Las claves que pueden utilizar tanto el remitente como el receptor para cifrar y descifrar mensajes se denominan claves
+simétricas porque la clave es la misma en ambos lados.
+
+El cifrado asimétrico utiliza dos claves diferentes, normalmente una pública y otra privada. Los remitentes pueden cifrar un
+mensaje utilizando una clave pública que sólo el destinatario, con su clave privada, puede descifrar.
+
 ##### Carreras en ciberseguridad, Infografía
 
 #### como se utiliza la ciberseguuridad
