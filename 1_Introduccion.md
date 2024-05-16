@@ -976,6 +976,96 @@ Thoughts on Cloud:
 
 #### Que es la inteligencia artifical
 
+##### Introducción
+
+La inteligencia artificial, o IA , es la ciencia que hace que las máquinas sean inteligentes. Gracias a los recientes
+avances en informática, las máquinas están aprendiendo a resolver problemas, algo que solíamos pensar que sólo los humanos
+podían hacer.
+
+Antes de comenzar, intente responder esta pregunta alucinante. ¡Piénsalo un poco! Descubrirá la respuesta correcta a medida
+que avance en el curso.
+
+¿Crees que las máquinas, como los humanos y los perros, pueden aprender cuando reciben una recompensa por hacer algo bien?
+
+A. Sí B. No, eso es una tontería.
+
+Tenga en cuenta su respuesta a medida que ingresamos en nuestra exploración de la inteligencia artificial.
+
+**IA EXPLICADA EN 101 SEGUNDOS.**
+
+Comencemos viendo este vídeo de Qualcomm, que muestra el potencial de la IA para hacernos la vida más fácil y emocionante.
+
+<https://youtu.be/zjeBGkS4LAA>
+
+##### ¿Puede realmente pensar una computadora?, ¿Cómo podemos saberlo?
+
+**La máquina pensante no es una idea nueva.**
+
+Durante siglos, la gente ha imaginado máquinas que piensan y se comportan como personas. Se decía que el dios griego Hefesto
+construyó máquinas de oro para trabajar para él. En la década de 1920, el escritor checo Karel Capek imaginó personas de
+metal que pensaban como humanos y acuñó la palabra “robot” para describirlos. En 1950, el matemático inglés Alan Turing se
+preguntó si una máquina podría pensar alguna vez y preguntó: “¿Cómo podemos saber si una máquina está pensando?” Para
+responder a la pregunta, razonó que “pensar” es difícil de definir, por lo que podría ser mejor considerar el pensamiento
+como un comportamiento. Propuso una prueba: si una máquina puede mantener una conversación con un humano, y el humano no
+puede decir que es una máquina, entonces podemos decir con seguridad que la máquina está "pensando".
+
+Poco después, en 1956, el campo moderno de la inteligencia artificial despegó en el Dartmouth College cuando un grupo de
+científicos predijo que en la próxima generación se podría construir una máquina tan inteligente como un ser humano. Estaban
+desviados por algunas décadas, pero su visión ha guiado el campo moderno de la IA, y la prueba de Turing sigue siendo el
+estándar de oro para identificar el pensamiento automático.
+
+**Podemos probar el pensamiento automático con un “juego de imitación”.**
+
+En la prueba de Turing, un interrogador se comunica a través de un teclado con una máquina o con una persona, pero no sabe
+cuál está al otro lado de la línea.
+
+Aquí hay una demostración rápida de cómo podría funcionar esto en este video de TED-Ed.
+
+<https://youtu.be/3wLqsRLvV-c>
+
+**¿Qué mide directamente la prueba de Turing?**
+
+A. Qué tan bien una computadora puede imitar la conversación humana
+B. El nivel de conciencia en un programa de computadora
+C. La memoria y el poder de procesamiento de un programa de computadora
+
+Si adivinaste A , ¡tienes razón!
+
+La medida original era poder sustituir a uno de los jugadores sin cambiar sustancialmente los resultados. En otras palabras,
+una computadora se consideraría inteligente si su conversación no pudiera distinguirse fácilmente de la de un humano.
+
+##### Las computadoras ayudan a los humanos, La IA se pone a trabajar
+
+**Inteligencia humana versus inteligencia artificial.**
+
+Para tener una conversación sobre inteligencia artificial (IA), necesitamos una definición práctica de inteligencia humana
+(HI). Consideremos que la inteligencia humana es la capacidad de razonar, resolver problemas y aprender. Estas actividades
+implican una interacción compleja entre funciones cognitivas como la percepción, la memoria, el lenguaje y la planificación.
+
+La gente hace estas cosas de forma natural porque la inteligencia humana nos permite aprender de experiencias pasadas,
+adaptarnos a nuevas situaciones y manejar ideas abstractas. Los seres humanos pueden utilizar el conocimiento aprendido para
+adaptarse, dar forma y cambiar su entorno.
+
+**Tipos de IA.**
+
+La IA puede procesar datos y hacer ciertos tipos de predicciones de manera más rápida y precisa que los humanos. Pero no es
+mágico ni todopoderoso.
+
+Veamos los diferentes niveles de IA y lo que pueden lograr.
+
+*IA débil.*
+
+Muchas empresas utilizan una IA débil para automatizar tareas y obtener resultados rápidamente y a menores costos. La IA
+débil supera a los humanos en tareas estrechamente definidas. Piense en un chatbot que responde preguntas sobre servicio al
+cliente, reconocimiento facial en Facebook, recomendaciones de compra en Amazon o aplicaciones que pueden convertir voz en
+texto. Alexa, Google Assistant y Siri demuestran una IA débil.
+
+##### Otras tecnologías ayudan a la IA, Es mutuo
+
+##### Carreras en inteligencia artificial, Infografía
+
+##### Aprende la jerga, ¡Muestra lo que sabes
+
 #### La inteligencia artificial en la practica
 
 ### Ciberseguridad
