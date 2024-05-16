@@ -1450,6 +1450,146 @@ salta automáticamente de una computadora a otra.
 
 ##### Criptografía
 
+En este video final, aprenderá sobre formas comunes de seguridad informática llamadas criptografía y partes clave de la
+criptografía moderna, como el cifrado simétrico, el intercambio de claves y la criptografía de clave pública.
+
+<https://youtu.be/jhXCTbFnK8o>
+
+Transcripción del Video Criptografía: Crash Course Computer Science #33
+
+Hola, soy Carrie Anne, ¡y bienvenidos a Crash Course Computer Science! En los dos últimos episodios, hemos hablado mucho
+sobre la seguridad informática. Pero la realidad es que no existe un sistema informático perfectamente seguro al 100%.
+Siempre habrá errores y los expertos en seguridad lo saben. Por lo tanto, los arquitectos de sistemas emplean una estrategia
+llamada defensa en profundidad, que utiliza muchas capas de mecanismos de seguridad variados para frustrar a los atacantes.
+Es un poco como están diseñados los castillos: primero tienes que esquivar a los arqueros, luego cruzar el foso, escalar las
+murallas, evitar el aceite caliente, superar los parapetos y derrotar a los guardias antes de llegar a la sala del trono,
+pero en este caso estamos hablando de una de las formas más comunes de seguridad informática: la criptografía.
+
+INTRO
+
+La palabra criptografía proviene de las raíces 'crypto' y 'graphy', que se traduce aproximadamente como "escritura secreta".
+Para hacer que la información sea secreta, se usa un cifrado: un algoritmo que convierte el texto en claro en texto cifrado,
+que es un galimatías a menos que tengas una clave que te permita deshacer el cifrado. El proceso de hacer que el texto sea
+secreto se llama encriptación, y el proceso inverso se llama desencriptación. Los cifrados se han usado mucho antes de que
+aparecieran las computadoras. Julio César usaba lo que ahora se llama un cifrado César para encriptar correspondencia
+privada. Él desplazaba las letras de un mensaje hacia adelante tres lugares. Así, A se convertía en D, y la palabra "brutus"
+se convertía en esto: "euxwxv". Para descifrar el mensaje, los destinatarios tenían que conocer tanto el algoritmo como el
+número de desplazamiento, que actuaba como la clave. El cifrado César es un ejemplo de una clase más grande de técnicas
+llamadas cifrados por sustitución. Estos reemplazan cada letra de un mensaje con otra cosa según una traducción. Un gran
+inconveniente de los cifrados de sustitución básicos es que las frecuencias de las letras se conservan. Por ejemplo, E es la
+letra más común en inglés, por lo que si tu cifrado traduce E a X, entonces X aparecerá con más frecuencia en el texto
+cifrado. Un criptanalista hábil puede trabajar hacia atrás a partir de este tipo de estadísticas para descifrar el mensaje.
+Fue la ruptura de un cifrado de sustitución lo que llevó a la ejecución de María, Reina de Escocia, en 1587 por conspirar
+para matar a la Reina Isabel. Otra clase fundamental de técnicas son los cifrados por permutación. Veamos un ejemplo simple,
+llamado cifrado de transposición columnar. Aquí, tomamos un mensaje y llenamos las letras en una cuadrícula. En este caso,
+hemos elegido 5 por 5. Para encriptar nuestro mensaje, leemos los caracteres en un orden diferente, digamos desde la esquina
+inferior izquierda, trabajando hacia arriba, una columna a la vez. El nuevo orden de las letras, lo que se llama una
+permutación, es el mensaje encriptado. La dirección del orden, así como el tamaño de la cuadrícula 5 por 5, sirve como la
+clave. Como antes, si se conoce el cifrado y la clave, un destinatario puede revertir el proceso para revelar el mensaje
+original. Para la década de 1900, la criptografía se mecanizó en forma de máquinas de encriptación. La más famosa fue la
+Enigma alemana, utilizada por los nazis para encriptar sus comunicaciones durante la guerra. Como discutimos en el episodio
+15, la Enigma era una máquina parecida a una máquina de escribir, con un teclado y un panel de lámparas, ambos mostrando el
+alfabeto completo. Encima de eso, había una serie de rotores configurables que eran la clave para la capacidad de
+encriptación de la Enigma.
+
+2 Primero, veamos un solo rotor. Un lado tenía contactos eléctricos para las 26 letras. Estos se conectaban al otro lado del
+rotor mediante cables cruzados que intercambiaban una letra por otra. Si entraba una 'H', podría salir una 'K' al otro lado.
+Si entraba una 'K', podría salir una 'F', y así sucesivamente. Este comportamiento de intercambio de letras debería sonar
+familiar: ¡es un cifrado por sustitución! Pero la Enigma era más sofisticada porque usaba tres o más rotores en fila, cada
+uno alimentando al siguiente. Los rotores también podían girarse a una de las 26 posiciones posibles de inicio, y podían
+insertarse en diferentes órdenes, proporcionando muchas diferentes asignaciones de sustitución. Después de los rotores había
+un circuito especial llamado reflector. En lugar de pasar la señal a otro rotor, conectaba cada pin a otro, y enviaba la
+señal eléctrica de vuelta a través de los rotores. Finalmente, había un tablero de enchufes en la parte frontal de la
+máquina que permitía que las letras que venían del teclado se intercambiaran opcionalmente, añadiendo otro nivel de
+complejidad. Con nuestro circuito simplificado, encriptamos una letra en esta configuración de ejemplo de la Enigma. Si
+presionamos la tecla ‘H’, la electricidad fluye a través del tablero de enchufes, luego los rotores, llega al reflector,
+regresa a través de los rotores y el tablero de enchufes, y enciende la letra ‘L’ en el panel de lámparas. Así, H se
+encripta como L. Nota que el circuito puede fluir en ambas direcciones: si escribimos la letra ‘L’, ‘H’ se encendería. En
+otras palabras, es el mismo proceso para encriptar y desencriptar; solo tienes que asegurarte de que las máquinas emisora y
+receptora tengan la misma configuración inicial. Si observas detenidamente este circuito, notarás que es imposible que una
+letra se encripte como sí misma, lo que resultó ser una debilidad criptográfica fatal. Finalmente, para evitar que la Enigma
+fuera un simple cifrado por sustitución, cada vez que se introducía una letra, los rotores avanzaban un lugar, un poco como
+el cuentakilómetros de un coche. Así que, si introducías el texto A-A-A, podría salir como B-D-K, donde la asignación de
+sustituciones cambiaba con cada pulsación de tecla. La Enigma era un hueso duro de roer, sin duda. Pero como discutimos en
+el episodio 15, Alan Turing y sus colegas en Bletchley Park pudieron romper los códigos Enigma y automatizar en gran medida
+el proceso. Pero con la llegada de las computadoras, la criptografía pasó del hardware al software. Uno de los primeros
+cifrados de software en volverse generalizado fue el Estándar de Encriptación de Datos desarrollado por IBM y la NSA en
+1977. DES, como se le conocía, originalmente usaba claves binarias de 56 bits de largo, lo que significa que había 2 a la
+56, o unos 72 cuatrillones de claves diferentes. En 1977, eso significaba que nadie, excepto quizás la NSA, tenía suficiente
+poder de computación para forzar todas las claves posibles. Pero, en 1999, una computadora de un cuarto de millón de dólares
+podía probar todas las claves posibles de DES en solo dos días, haciendo que el cifrado fuera inseguro. Así que, en 2001, se
+finalizó y publicó el Estándar de Encriptación Avanzada (AES). AES está diseñado para usar claves mucho más grandes: de 128,
+192 o 256 bits de tamaño, haciendo los ataques de fuerza bruta mucho, mucho más difíciles. Para una clave de 128 bits,
+necesitarías billones de años para probar cada combinación, incluso si usaras cada computadora en el planeta hoy en día. Así
+que, ¡mejor empieza ya! AES divide los datos en bloques de 16 bytes, y luego aplica una serie de sustituciones y
+permutaciones, basadas en el valor de la clave, además de algunas otras operaciones para oscurecer el mensaje, y este
+proceso se repite diez o más veces para cada bloque. Podrías preguntarte: ¿por qué solo diez rondas? ¿O por qué solo claves
+de 128 bits, y no claves de diez mil bits? Bueno, es una compensación de rendimiento. Si llevara horas encriptar y enviar un
+correo electrónico, o minutos conectarse a un sitio web seguro, la gente no lo usaría.
+
+3 AES equilibra rendimiento y seguridad para proporcionar una criptografía práctica. Hoy en día, AES se usa en todas partes,
+desde encriptar archivos en iPhones y transmitir datos a través de WIFI con WPA2, hasta acceder a sitios web usando HTTPS.
+Hasta ahora, las técnicas criptográficas que hemos discutido dependen de claves que son conocidas tanto por el remitente
+como por el destinatario. El remitente encripta un mensaje usando una clave, y el destinatario lo desencripta usando la
+misma clave. En los viejos tiempos, las claves se compartían por voz, o físicamente; por ejemplo, los alemanes distribuían
+libros de códigos con configuraciones diarias para sus máquinas Enigma. Pero esta estrategia nunca podría funcionar en la
+era de Internet. ¡Imagina tener que abrir un libro de códigos para conectarte a YouTube! Lo que se necesita es una manera
+para que un servidor envíe una clave secreta a través de Internet pública a un usuario que desee conectarse de forma segura.
+Parece que eso no sería seguro, porque si la clave se envía abiertamente y es interceptada por un hacker, ¿no podrían usar
+eso para desencriptar toda la comunicación entre los dos? La solución es el intercambio de claves: ¡un algoritmo que permite
+a dos computadoras acordar una clave sin necesidad de enviar una! Podemos hacer esto con funciones unidireccionales:
+operaciones matemáticas que son muy fáciles de hacer en una dirección, pero difíciles de revertir. Para mostrar cómo
+funcionan las funciones unidireccionales, usemos colores de pintura como analogía. Es fácil mezclar colores de pintura, pero
+no es tan fácil averiguar los colores constituyentes que se usaron para hacer un color de pintura mezclado. Tendrías que
+probar muchas posibilidades para descubrirlo. En esta metáfora, nuestra clave secreta es un tono único de pintura. Primero,
+hay un color de pintura público que todos pueden ver. Luego, John y yo elegimos cada uno un color de pintura secreto. Para
+intercambiar claves, mezclo mi color de pintura secreto con el color de pintura público. Luego, envío ese color mezclado a
+John por cualquier medio: correo, paloma mensajera, lo que sea. John hace lo mismo: mezcla su color de pintura secreto con
+el color público, luego me lo envía. Cuando recibo el color de John, simplemente agrego mi color privado para crear una
+mezcla de los tres colores de pintura. John hace lo mismo con mi color mezclado. ¡Y voila! ¡Ambos terminamos con el mismo
+color de pintura! Podemos usar esto como un secreto compartido, aunque nunca nos enviamos nuestros colores secretos
+individuales. Un observador externo que esté espiando sabría información parcial, pero les resultaría muy difícil descubrir
+nuestro color secreto compartido. Por supuesto, enviar y mezclar colores de pintura no va a funcionar bien para transmitir
+datos informáticos. Pero afortunadamente, las funciones unidireccionales matemáticas son perfectas, y esto es lo que usa el
+Intercambio de Claves Diffie-Hellman. En Diffie-Hellman, la función unidireccional es la exponenciación modular. Esto
+significa tomar un número, la base, elevarlo a la potencia de otro número, el exponente, y tomar el resto al dividir por un
+tercer número, el módulo. Así que, por ejemplo, si quisiéramos calcular 3 elevado a la 5ª potencia, módulo 31, calcularíamos
+3 elevado a la 5ª, que es 243, luego tomamos el resto al dividir por 31, que es 26. La parte difícil es averiguar el
+exponente dado solo el resultado y la base. Si te digo que elevé 3 a algún número secreto, módulo 31, y obtuve 7 como resto,
+tendrías que probar muchos exponentes para saber cuál elegí. Si hacemos estos números grandes, digamos de cientos de dígitos
+de longitud, entonces encontrar el exponente secreto es casi imposible. Ahora hablemos de cómo Diffie-Hellman usa la
+exponenciación modular para calcular una clave compartida. Primero, hay un conjunto de valores públicos: la base y el
+módulo, que, como nuestro color de pintura público, todos pueden conocer... ¡incluso los malos!
+
+4 Para enviar un mensaje de forma segura a John, elegiría un exponente secreto: X. Luego, calcularía B elevado a la X,
+módulo M. Envío este gran número a John. John hace lo mismo, eligiendo un exponente secreto Y, y enviándome B elevado a la
+Y, módulo M. Para crear una clave secreta compartida, tomo lo que John me envió, y lo elevo a la potencia de X, mi exponente
+secreto. Esto es matemáticamente equivalente a B elevado a la XY, módulo M. John hace lo mismo, tomando lo que le envié a la
+potencia de Y, y ambos terminamos con el mismo número exacto. ¡Es una clave secreta compartida, aunque nunca nos enviamos
+nuestros números secretos! Podemos usar este gran número como una clave compartida para la comunicación encriptada, usando
+algo como AES para la encriptación. El intercambio de claves Diffie-Hellman es un método para establecer una clave
+compartida. Estas claves que pueden ser usadas tanto por el remitente como por el receptor, para encriptar y desencriptar
+mensajes, se llaman claves simétricas porque la clave es la misma en ambos lados. El Cifrado César, Enigma y AES son todas
+encriptaciones simétricas. También hay encriptación asimétrica, donde hay dos claves diferentes, más comúnmente una que es
+pública y otra que es privada. Así, las personas pueden encriptar un mensaje usando una clave pública que solo el
+destinatario, con su clave privada, puede desencriptar. En otras palabras, conocer la clave pública solo te permite
+encriptar, pero no desencriptar: ¡es asimétrico! Así que piensa en cajas con candados que puedes abrir con una llave. Para
+recibir un mensaje seguro, puedo darle al remitente una caja y un candado. Ellos ponen su mensaje en ella y la cierran.
+Ahora, pueden enviarme esa caja y solo yo puedo abrirla, con mi clave privada. Después de cerrar la caja, ni el remitente,
+ni nadie más que encuentre la caja, puede abrirla sin usar fuerza bruta. De la misma manera, una clave pública digital puede
+encriptar algo que solo puede ser desencriptado con una clave privada. El proceso inverso también es posible: encriptar algo
+con una clave privada que puede ser desencriptado con una clave pública. Esto se usa para firmar, donde un servidor encripta
+datos usando su clave privada. Cualquiera puede desencriptarlo usando la clave pública del servidor. Esto actúa como una
+firma infalsificable, ya que solo el propietario, usando su clave privada, puede encriptar. Prueba que estás recibiendo
+datos del servidor o persona correctos, y no de un impostor. La técnica de encriptación asimétrica más popular utilizada hoy
+en día es RSA, llamada así por sus inventores: Rivest, Shamir y Adleman. Así que ahora conoces todas las partes "clave" de
+la criptografía moderna: encriptación simétrica, intercambio de claves y criptografía de clave pública. Cuando te conectas a
+un sitio web seguro, como tu banco, ese pequeño icono de candado significa que tu computadora ha utilizado criptografía de
+clave pública para verificar el servidor, intercambio de claves para establecer una clave temporal secreta, y encriptación
+simétrica para proteger toda la comunicación de ida y vuelta de miradas indiscretas. Ya sea que estés comprando algo en
+línea, enviando correos electrónicos a tus mejores amigos, o simplemente navegando videos de gatos, la criptografía mantiene
+todo eso seguro, privado y protegido. ¡Gracias, criptografía!
+
 **Conclusiones clave.**
 
 Las formas más comunes de seguridad informática se conocen como criptografía. Los arquitectos de sistemas emplean estas
