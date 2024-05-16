@@ -800,6 +800,32 @@ incluyen en la siguiente infografía.
 
 ##### Introducción, nube en el trabajo
 
+Este curso le ayudará a comprender cómo se utiliza la computación en la nube todos los días. Revisará los beneficios de la
+nube y sus aplicaciones en el mundo real, y conocerá formas en las que podría comenzar su propia carrera en la computación
+en la nube. Pero primero, una pregunta.
+
+Imagine que tiene un trabajo desarrollando software de juegos en línea para una empresa como Rockstar o Valve. ¿Qué modelo
+de servicio en la nube crees que usarías?
+
+        Saas
+        PaaS
+        IaaS
+
+Tenga en cuenta su mejor estimación a medida que continúa. Encontrarás la respuesta en un próximo tema.
+
+Ahora vea un breve vídeo sobre cómo IBM Cloud ayuda a las empresas a responder de forma más eficaz a sus clientes.
+
+Todo el mundo sabe que los negocios actuales se basan en datos. La cuestión es que la mayoría de las empresas no están
+obteniendo la al máximo. IBM Cloud está diseñado exclusivamente para todo tipo de datos, como datos meteorológicos. empresa
+para 2.200 millones de ubicaciones, o miles de millones de puntos de datos relacionados con la salud, incluso el sentimiento
+social en tiempo real. tiempo de cientos de millones de personas. Todo está en la nube de IBM. Si combinas eso con los datos
+de tu el negocio ya lo ha hecho, entonces las cosas se ponen interesantes. Ahora mismo estamos trabajando con un minorista
+para combinar datos sociales y de inventario para ayudar a predecir la demanda. Podemos ayudar a una cadena hotelera a
+igualar el clima y la información local. datos de eventos, para que puedan ajustar los precios de las habitaciones minuto a
+minuto. Y otra empresa con la que trabajamos. puede aplicar análisis a los datos de los sensores para ahorrar millones en
+costos de energía. Hoy en día, todas las empresas funcionan con datos. Es exactamente por eso que construimos la nube de
+IBM.
+
 ##### La nube ayuda a las empresas a prosperar, Tres valores principales
 
 ##### La nube nos ayuda a todos, Mini-cuestionario
