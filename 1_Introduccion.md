@@ -1256,13 +1256,119 @@ automovilísticos, identificar el tipo de vehículo involucrado y sus daños, y 
 
 ##### Introducción IA en la practica
 
+**La IA ya es parte de tu vida.**
+
+En 2011, personas de todo el mundo que nunca habían pensado mucho en la inteligencia artificial (IA) se encontraron de
+repente con ella: ¡en Jeopardy! , un programa de preguntas de televisión. Tómate un momento para adivinar la respuesta a una
+pregunta sobre ese momento histórico:
+
+Cuando los científicos entrenaron el programa de IA de IBM Watson para competir con los campeones del torneo en Jeopardy!,
+¿cuál crees que fue su principal fuente de información para que el programa la usara al responder las preguntas del programa
+de preguntas ?
+
+A.Wikipedia
+
+B. La Biblioteca del Congreso
+
+C. Un grupo de académicos del MIT
+
+Tenga en cuenta su mejor estimación a medida que continúa. Encontrarás la respuesta más adelante en este curso.
+
 ##### La IA puede comunicarse, Hablando natualmente
+
+**La IA entiende el lenguaje humano.**
+
+En cualquier idioma, puede haber cientos de formas de expresar una idea sencilla. Nuestros cerebros han sabido desde la
+infancia cómo procesar oraciones y darles sentido. Pero las computadoras no pueden hacer eso usando métodos de programación
+tradicionales. ¡Es imposible para un programador inventar la redacción exacta para cada oración posible que alguien podría
+decirle a una computadora! En cambio, los científicos de IA han ayudado a las computadoras a comprender el lenguaje
+utilizando una rama de la informática llamada procesamiento del lenguaje natural o  PNL.
+
+La PNL impulsa los chatbots , los sistemas computarizados que brindan un servicio básico al cliente. Escribe o pronuncia una
+pregunta usando una oración simple y ordinaria. El chatbot normalmente comprende su pregunta y responde en consecuencia.
+
+Encontrará una aplicación avanzada de PNL en los asistentes virtuales proporcionados por teléfonos inteligentes y
+dispositivos informáticos personales. Alexa de Amazon, Cortana de Microsoft y Siri de Apple pueden comprender preguntas más
+complejas.
+
+A medida que la PNL se vuelve más sofisticada, interactuará con asistentes virtuales avanzados como el ficticio que se
+muestra en este video.
+
+<https://youtu.be/vvimBPJ3XGQ>
 
 ##### La IA puede ayudarte a hacer cosas, Conducir y comprar
 
+**La IA puede realizar tareas difíciles en su nombre.**
+
+La IA puede realizar trabajos complejos que antes se pensaba que sólo eran posibles para los humanos. Pensemos en los coches
+autónomos. Utilizando cámaras, radar, lidar y GPS, reciben todo tipo de información: superficie de la carretera, límite de
+velocidad, líneas de carril, tráfico, peatones, condiciones de iluminación, señales de tráfico y más, ¡todo cambiando a la
+velocidad de la autopista! Su IA integra rápidamente estas entradas y toma decisiones para navegar por la carretera de forma
+segura y precisa.
+
+**La IA puede ayudarte a descubrir cosas.**
+
+La IA también puede automatizar búsquedas, marketing y publicidad. Al analizar automáticamente datos sobre su comportamiento
+y preferencias, la IA puede hacer predicciones o recomendaciones que sean específicas para usted o que reflejen a personas
+similares a usted.
+
+Amazon, por ejemplo, recuerda los libros que has comprado y te sugiere otros que también podrían interesarte. LinkedIn
+recomienda trabajos que se adapten a tu perfil. Netflix recomienda programas similares a los que ya has disfrutado. En este
+momento, estas recomendaciones tienen un valor mixto. Si compras calcetines en Amazon, te recomendará más calcetines, los
+necesites o no. Pero este tipo de IA está avanzando rápidamente en su capacidad para personalizar lo que ofrece. Descubre
+más en el siguiente vídeo.
+
+<https://youtu.be/JwHzqYN0WTA>
+
+Otro gran ejemplo, uno que no se trata de ventas sino de ayudar a las personas, es IBM Watson for Oncology . Lee cada
+palabra y resultado de la prueba de un paciente con cáncer individual. Al mismo tiempo, se mantiene al tanto de más
+publicaciones de investigación sobre el cáncer de las que un ser humano podría leer. Combinando lo que ha aprendido sobre el
+paciente con lo que ha aprendido de la investigación, hace recomendaciones de tratamiento adaptadas precisamente al
+paciente.
+
 ##### La IA puede resolver problemas, Salvando vidas
 
+**La IA puede ayudar a la humanidad.**
+
+En la región de Patna, en el norte de la India, propensa a inundaciones, las aguas estaban subiendo. Pero gracias en parte a
+un sistema de inteligencia artificial, los residentes de la región recibieron alertas tempranas en sus teléfonos. ¡Un
+sistema de pronóstico de inundaciones que Google desarrolló para la Comisión Central del Agua de la India está marcando la
+diferencia! Pero puede hacer más que pronosticar mareas altas. También es lo suficientemente inteligente como para evitar
+falsas alarmas.
+
+Sella Nevo, jefe de la unidad de previsión de inundaciones y director de ingeniería de software de Google, señala que “para
+nuestras alertas de alto riesgo, tuvimos menos del 10 por ciento de falsos positivos [hasta regiones que miden 64 por 64
+metros]... Eso es alta precisión." El truco consiste en entrenar la precisión del sistema para evitar evacuaciones
+innecesarias y generar confianza en el sistema de alerta.
+
+**Pero las buenas soluciones requieren buenos datos.**
+
+Si usted o sus amigos disfrutan de la programación informática, probablemente hayan escuchado el acrónimo GIGO. Significa
+"basura que entra, basura que sale". Cuando trabajas con datos incorrectos obtendrás malos resultados.
+
+GIGO también se aplica a la IA. El sistema más brillante no puede resolver problemas sin datos de alta calidad. No basta con
+diseñar bien el sistema. También debe darle la capacidad de detectar información falsa y limpiar la información que contiene
+errores.
+
 ##### La IA puede jugar, ¡No sólo por diversión
+
+**Aplicaciones de juegos para IA.**
+
+Algunas de las aplicaciones más famosas de la inteligencia artificial han surgido del mundo de los juegos. Averigüemos cómo.
+
+Comienza con programas diseñados para ganar juegos difíciles. Durante años, los mayores maestros del ajedrez del mundo han
+puesto a prueba sus habilidades contra oponentes informáticos: desde el Deep Blue de IBM hasta el actual campeón, Stockfish
+9. Este tipo de IA avanzada pero limitada no puede pilotar un coche autónomo ni mantener una conversación. , o proporcionar
+advertencias precisas sobre inundaciones, pero está invicto contra los mejores jugadores de ajedrez humanos del mundo.
+
+Ya has leído cómo el procesamiento del lenguaje natural ayudó a IBM Watson a ganar el concurso Jeopardy! campeonato (junto
+con un enorme conjunto de datos extraídos de Wikipedia y otras fuentes). Veamos los movimientos ganadores de Watson en el
+siguiente video.
+
+Algunas personas piensan que los juegos son una forma divertida pero trivial de utilizar la IA. Escuchamos esto, por
+ejemplo, cuando Jeopardy! win se emitió por primera vez. Pero las lecciones aprendidas de esa aventura ayudaron a IBM a
+abordar enormes problemas como el transporte global y el tratamiento del cáncer. Los sistemas de juego ofrecen desafíos
+complicados y de rápido movimiento cuyas soluciones nos llevan a nuevas e importantes aplicaciones de IA.
 
 ##### La IA puede ampliar la experiencia humana, Haciéndonos más inteligentes
 
