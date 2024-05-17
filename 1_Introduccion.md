@@ -1755,6 +1755,111 @@ ciberseguridad y las habilidades necesarias para trabajar en este campo?
 
 ##### Para hacerte pensar
 
+**Volver a lo básico.**
+
+Para conversar sobre amenazas, ataques, defensas y más a la ciberseguridad, es necesario comprender la terminología.
+
+El panorama de la ciberseguridad es amplio, por lo que no cubriremos todos los términos aplicables. Pero revisaremos un
+subconjunto útil de términos comunes como los de esta nube de palabras:
+
+Amenaza persistente avanzada (APT)
+
+Una amenaza persistente avanzada (APT) es un ataque de red de varias fases y a largo plazo en el que usuarios no autorizados
+obtienen acceso y recopilan datos empresariales valiosos.
+
+El gusano Stuxnet , lanzado en 2010, es un ejemplo de APT.
+
+Red de bots
+
+Una botnet es un grupo de sistemas informáticos, en cualquier parte del mundo, que han sido infectados por un software
+malicioso. El software permite que un hacker conecte en red estas computadoras. El pirata informático obtiene el control
+total de todos los bots de la red y puede realizar tareas maliciosas.
+
+Un ejemplo de botnet es el  Twitter Botnet de “Star Wars” , lanzado en 2017.
+
+Incumplimiento
+
+Una infracción es el momento en que un usuario no autorizado o un intruso (hacker) explota con éxito una vulnerabilidad en
+una computadora o dispositivo y obtiene acceso a sus archivos y red.
+
+Un ejemplo de infracción es Yahoo! violación de datos en septiembre de 2016, en la que se afectaron 3 mil millones de
+cuentas de usuarios.
+
+Ataque cibernetico
+
+Un ciberataque es un intento malicioso de dañar, interrumpir u obtener acceso no autorizado a sistemas, redes o dispositivos
+informáticos, a través de medios cibernéticos.
+
+Un ejemplo de ciberataque es el ciberataque de 2013 lanzado contra los grandes almacenes Target . El ciberataque afectó a 40
+millones de cuentas de tarjetas de crédito y débito de clientes de Target.
+
+La seguridad cibernética
+
+La ciberseguridad implica la preservación de la confidencialidad, integridad y disponibilidad de la información en el
+ciberespacio.
+
+I BM Security es un ejemplo de organización dedicada a la ciberseguridad.
+
+Exploit
+
+Un exploit informático implica el uso de una aplicación o script malicioso para aprovechar la vulnerabilidad de una
+computadora.
+
+Un ejemplo de explotación informática es la filtración de datos de Equifax en septiembre de 2017 , que resultó de una
+vulnerabilidad en la infraestructura de aplicaciones web de la empresa.
+
+malware
+
+Malware es un término general que describe todas las formas de software malicioso diseñado para causar estragos en una
+computadora.
+
+Los ataques WannaCry de mayo de 2017 y enero de 2018 son ejemplos de malware utilizado para realizar ciberataques.
+
+Hombre en el medio (MitM)
+
+En un ataque MitM , un atacante intercepta mensajes entre un usuario y un sitio web para observar y registrar transacciones.
+
+Un ejemplo de respuesta a un ataque MitM es el arresto en junio de 2015 de 49 sospechosos europeos multinacionales por
+interceptar solicitudes de pago por correo electrónico.
+
+Suplantación de identidad
+
+El phishing es una técnica utilizada por los piratas informáticos para obtener información confidencial, como contraseñas,
+cuentas bancarias o datos de tarjetas de crédito. A menudo comienza como un correo electrónico inesperado disfrazado de
+provenir de una fuente legítima. Por lo general, adopta dos formas: intentar engañar al destinatario para que responda con
+la información que busca, como datos bancarios, o tentarlo a hacer clic en un enlace malicioso o ejecutar un archivo
+adjunto.
+
+Un ejemplo de phishing es un correo electrónico recibido inesperadamente solicitando una "acción urgente" para hacer clic en
+un hipervínculo y proporcionar información personal confidencial, actualizar una contraseña o una cuenta de tarjeta de
+crédito, etc.
+
+Secuestro de datos
+
+El ransomware es una forma de malware que impide deliberadamente que las personas accedan a los archivos de su computadora.
+Cuando el ransomware infecta una computadora, normalmente cifra los archivos y solicita que se pague un "rescate" para
+descifrarlos.
+
+Un ejemplo de ataque de ransomware es el ataque CryptoLocker de septiembre de 2013 que infectó computadoras que ejecutaban
+el sistema operativo Microsoft Windows.
+
+Virus
+
+Un virus es un tipo de malware para ordenadores personales que se remonta a la época de los disquetes. Los virus normalmente
+tienen como objetivo corromper, borrar o modificar información en una computadora y luego propagarse a otros.
+
+En los últimos años, virus como Stuxnet también han causado daños físicos.
+
+Ataque de día cero
+
+Un ataque de día cero es una forma particular de explotación de software , generalmente malware .
+
+Un exploit de día cero es único y desconocido para el público o el proveedor de software. Como pocas personas son
+conscientes de su vulnerabilidad, las víctimas tienen “días cero” para protegerse de su uso.
+
+Un ejemplo de exploit de día cero es el ataque de día cero de 2014 a Sony Pictures Entertainment , en el que su red
+corporativa se vio comprometida y se divulgaron datos corporativos confidenciales.
+
 ##### Introducción a la terminología de ciberseguridad
 
 ##### Métodos de ciberataque
