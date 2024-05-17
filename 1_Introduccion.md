@@ -2321,6 +2321,37 @@ Una transacción es una solicitud de un transactor a la cadena de bloques para e
 
 ##### ¡Blockchain y tú!, Explora más
 
+**¿Listo para aprender más?**
+
+¿Es usted un creador con curiosidad por las criptomonedas o cree en el poder distribuido y las redes abiertas? Cualquiera
+que sea su interés, aquí hay algunas cosas más que puede hacer para aprender sobre blockchain.
+
+Haga clic en cada sección para leer y tomar medidas sobre algunas o todas estas sugerencias:
+
+Piense en formas de utilizar blockchain para el bien social.
+
+Puedes realizar esta actividad por tu cuenta o intercambiar ideas con tus compañeros y profesores.
+
+¿Cómo podría usarse blockchain para el bien social? Por ejemplo, podrías:
+
+Identifique los problemas que enfrentan las personas u organizaciones de su comunidad local y piense en cómo blockchain
+podría ayudarlos. Tenga una discusión sobre lo que significa usar blockchain para el bien social. Por ejemplo, ¿se trata de
+la necesidad de regular la tecnología para beneficiar a la mayoría de las personas y establecer estándares de igualdad y
+transparencia, o se trata de la descentralización para crear una mejor Internet? ¿Qué es el bien social? ¿Puede ayudar
+blockchain?
+
+**Proyectos blockChain en la actualidad:**
+
+<https://www.fastcompany.com/90302615/73-blockchain-projects-that-could-actually-have-social-impact>
+
+**Conozca la historia secreta de blockchain.**
+
+Mire este video de 10 minutos del Grupo Westpac, uno de los primeros bancos de Australia, para aprender más sobre la
+historia secreta de blockchain y profundizar en dos de sus conceptos fundamentales: libros de contabilidad distribuidos y
+funciones hash criptográficas.
+
+<https://www.youtube.com/watch?v=J-ab9was1p0&ab_channel=sh0k0nes>
+
 ### Internet de las cosas (IoT)
 
 #### Qué es Internet de las cosas
