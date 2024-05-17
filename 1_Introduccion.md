@@ -1753,7 +1753,7 @@ de ataques cibernéticos.
 Ciberseguridad... ¡mucho más divertida de lo que pensabas! ¿Quizás se esté preguntando cuáles son los roles en
 ciberseguridad y las habilidades necesarias para trabajar en este campo?
 
-##### Para hacerte pensar
+##### Introducción a la terminología de ciberseguridad
 
 **Volver a lo básico.**
 
@@ -1859,8 +1859,6 @@ conscientes de su vulnerabilidad, las víctimas tienen “días cero” para pro
 
 Un ejemplo de exploit de día cero es el ataque de día cero de 2014 a Sony Pictures Entertainment , en el que su red
 corporativa se vio comprometida y se divulgaron datos corporativos confidenciales.
-
-##### Introducción a la terminología de ciberseguridad
 
 ##### Métodos de ciberataque
 
