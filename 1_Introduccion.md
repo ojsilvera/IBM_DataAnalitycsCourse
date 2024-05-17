@@ -1862,6 +1862,68 @@ corporativa se vio comprometida y se divulgaron datos corporativos confidenciale
 
 ##### Métodos de ciberataque
 
+**¿Qué motiva un ciberataque?**
+
+Hay muchas razones posibles para un ciberataque . Estos pueden incluir motivos políticos, financieros o personales
+relacionados con conflictos internacionales o militares, adquisiciones de secretos comerciales, ciberactivismo o incluso
+venganza o notoriedad. Incluso existe la posibilidad de que los ciberataques puedan basarse en investigaciones legítimas de
+organizaciones o individuos de “Sombrero Blanco” (“los buenos”) que buscan derrotar a los ciberdelincuentes de “Sombrero
+Negro”. Sin embargo, la mayoría de los ciberataques tienen como objetivo identificar y explotar debilidades en los sistemas
+y la tecnología.
+
+**Métodos comunes de ciberataque.**
+
+Los ciberdelincuentes utilizan muchos métodos para realizar un ciberataque.
+
+Ataques de ingeniería social
+
+Los ataques de ingeniería social se pueden utilizar para obtener contraseñas de usuarios legítimas robando bases de datos de
+contraseñas. Los métodos de ataque de ingeniería social incluyen phishing, abrevaderos y caballos de Troya .
+
+Infracciones del sistema e infecciones de malware
+
+Los “errores” en el código de programación presentan oportunidades para que los atacantes puedan violar (piratear) y
+“poseer” un sistema. Los errores de configuración, como las contraseñas predeterminadas y los archivos compartidos abiertos,
+también crean importantes problemas de seguridad. Las debilidades del protocolo y el diseño de la red pueden crear puntos de
+entrada para infecciones de malware y ataques iniciales de “enganche”.
+
+Ataques de hombre en el medio (MitM)
+
+Se utiliza un ataque Man-in-the-Middle ( MitM ) para interceptar, capturar y luego liberar el tráfico de la red. Los ataques
+MitM pueden incluir el uso de nombres de dominio de Internet o aplicaciones móviles para  falsificar sitios web legítimos, o
+el uso de dispositivos físicos, como skimmers de puntos de venta (POS), para capturar o "hojear" datos confidenciales.
+
+Los ataques MitM son una variación avanzada de los ataques de phishing y pharming . En estos ataques, un delincuente utiliza
+un sitio web intermedio para ver información privada y alterar transacciones. Entonces, cuando los usuarios inician sesión
+en un sitio web y comienzan a trabajar, no saben que toda la información intercambiada entre ellos y el sitio web pasa a un
+delincuente.
+
+Suplantación de protocolo de Internet (IP)
+
+La falsificación del protocolo de Internet (IP) implica eludir los sistemas de seguridad que limitan el acceso a direcciones
+IP conocidas y de control de acceso a medios  (MAC) . Con este método, un atacante pretende ser un punto final legítimo para
+obtener acceso a los sistemas.
+
+Robar y explotar credenciales de acceso al sistema
+
+Al robar credenciales legítimas de administración del sistema  , un usuario no autorizado puede obtener acceso a uno o más
+sistemas. En este escenario, un atacante roba las credenciales de administración del Sistema A y luego las utiliza "en
+sentido descendente" para obtener acceso al Sistema B. El resultado es que el atacante puede explotar la "relación de
+confianza" entre los dos sistemas.
+
+Ataques de denegación de servicio (DoS)
+
+Un atacante puede dirigir cantidades masivas de tráfico de red a un host de red para evitar que el host atienda a usuarios
+legítimos. Cuando los atacantes abruman con éxito a los hosts, pueden potencialmente restringir el acceso al sistema,
+negando el acceso a otros usuarios. Esto se conoce como  Denegación de Servicio (DoS) o  DoS Distribuido (DDoS) .
+
+Amenazas persistentes avanzadas (APT)
+
+Las amenazas persistentes avanzadas ( APT ) son creadas por organizaciones y estados-nación bien financiados y altamente
+capacitados, y a menudo apuntan a organizaciones específicas. Las APT son conjuntos de procesos de piratería informática
+continuos y sigilosos. Las APT pueden permanecer inactivas durante meses, pero cuando están activas, suelen utilizar
+técnicas de explotación de última generación.
+
 ##### Minicuestionario: Terminología y métodos de ciberataque
 
 ### Blockchain
