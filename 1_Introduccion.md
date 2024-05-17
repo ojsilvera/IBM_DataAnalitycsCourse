@@ -2408,4 +2408,28 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ## Explorar metodologias agiles
 
+### Concetos basicos
+
+#### Introduccion a agile
+
+![alt text](image-54.png)
+
+#### Porque agile
+
+![alt text](bundles.yourlearning.ibm.com_skills_learn_.png)
+
+#### Valores agiles
+
+![alt text](<Valores agiles.png>)
+
+#### los principios agiles
+
+##### que son los principios agiles
+
+![alt text](<que son los principios.png>)
+
+### Fundamento de operaciones agiles
+
+### fundamentos del programa agile
+
 ## Panorama laboral
