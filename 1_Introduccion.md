@@ -2428,6 +2428,44 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ![alt text](<que son los principios.png>)
 
+##### la claridad del resultado
+
+![alt text](<Claridad del resultado.png>)
+
+##### Iteracion y Aprendizaje
+
+![alt text](<iteracion y aprendizaje.png>)
+
+##### Equipos autodirigidos
+
+![alt text](<Equipos autodirigidos.png>)
+
+##### En resumen
+
+![alt text](<En resumen.png>)
+
+#### Practicas agiles
+
+##### que son las practicas agiles
+
+![alt text](<Que son las practicas agiles.png>)
+
+##### Contrato social
+
+![alt text](<Contrato social.png>)
+
+##### Canicas de humor
+
+![alt text](<Canicas de humor.png>)
+
+##### Muro de trabajo
+
+![alt text](<Muro de trabajo.png>)
+
+##### Ponerse de pie
+
+![alt text](<Ponerse de pie.png>)
+
 ### Fundamento de operaciones agiles
 
 ### fundamentos del programa agile
