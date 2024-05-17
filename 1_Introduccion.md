@@ -2478,6 +2478,26 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ![alt text](Shuhari.png)
 
+##### En resumen las practicas agiles
+
+![alt text](<en resumen-1.png>)
+
+#### Patrones agiles
+
+![alt text](<Patrones agiles.png>)
+
+#### Equipos agiles y distribuidos
+
+![alt text](<equipos agiles y distribuidos.png>)
+
+#### Mitos sobre agile
+
+![alt text](<mitos sobre agile.png>)
+
+#### Pensamiento agile y de diseño
+
+![alt text](<Pensamiento agile y de diseño.png>)
+
 ### Fundamento de operaciones agiles
 
 ### fundamentos del programa agile
