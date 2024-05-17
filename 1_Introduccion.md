@@ -1980,6 +1980,8 @@ inteligentes solo rieguen los cultivos cuando sea necesario, reduciendo la canti
 Alerta de desastres: Los sensores recopilan información crítica sobre el medio ambiente, lo que permite la detección
 temprana de desastres ambientales, como terremotos y tsunamis, salvando así vidas.
 
+<https://www.ibm.com/blogs/internet-of-things/iot-use-cases/>
+
 ## Explorar metodologias agiles
 
 ## Panorama laboral
