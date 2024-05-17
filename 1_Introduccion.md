@@ -2544,6 +2544,10 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ![alt text](retrospectiva-1.png)
 
+##### Resumen y reflexion de agile en operaciones
+
+![alt text](<resumen y reflexion agile y operaciones.png>)
+
 ### fundamentos del programa agile
 
 ## Panorama laboral
