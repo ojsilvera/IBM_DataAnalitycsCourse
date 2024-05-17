@@ -1633,7 +1633,59 @@ infografía y artículo.
 
 ##### Introducción uso de la ciberseguridad
 
+En este curso, aprenderá sobre Havyn, el asistente de ciberseguridad habilitado por voz, y los inventores, padre e hijo, que
+lo concibieron por primera vez.
+
+También verá y seguirá cómo un equipo de seguridad de IBM aísla un ciberataque y cierra la amenaza. Entonces tendrás la
+oportunidad de probarlo por ti mismo y poner a prueba tus habilidades de ciberdefensa con el Laboratorio de ciberseguridad
+de NOVA.
+
+Tres videos lo ayudarán a comprender cómo se utiliza la ciberseguridad para defenderse de los ataques, y un cuestionario y
+un laboratorio a continuación pondrán a prueba sus conocimientos.
+
+¡Divertirse!
+
 ##### Tony Stark tiene a Jarvis y ahora IBM tiene a Havyn
+
+Lo que comenzó como un proyecto de fin de semana, creció hasta convertirse en un asistente de voz local que aprovecha la
+enorme infraestructura de ciberseguridad de IBM.
+
+Al igual que el asistente de voz Alexa de Amazon, Havyn ayuda a combatir las amenazas de ciberseguridad respondiendo
+consultas básicas utilizando un chatbot y una interfaz de voz basados ​​en Watson. La herramienta puede determinar si
+existen ciberamenazas e identificar los sistemas a los que afecta.
+
+Dado que Havyn puede manejar múltiples hilos de conversación, la investigación de IBM estima que los equipos manejan un
+promedio de 200.000 eventos individuales cada día. Eso es más de lo que cualquier equipo humano de ciberseguridad podría
+esperar procesar, lo que convierte a Hayvn en un excelente complemento para los flujos de trabajo de ciberseguridad
+actuales. Esta herramienta libera a los equipos para las ciberamenazas que requieren su atención con mayor urgencia.
+
+Aún no está claro qué tan útil podría llegar a ser Hayvn o cómo lo utilizarán los analistas. ¿Cómo cree que Havyn ayudará a
+los analistas a responder a las ciberamenazas?
+
+<https://www.wired.com/2017/02/ibm-havyn-cybersecurity/>
+
+*Conclusiones clave.*
+
+Havyn comenzó como un experimento en tecnología de voz a texto (STT), texto a voz (TTS) y conversacional impulsado por
+Watson, diseñado para combatir las amenazas de ciberseguridad respondiendo preguntas básicas.
+
+Hayvn puede determinar si existe una ciberamenaza y si afecta directamente a un sistema determinado. Los analistas de
+ciberseguridad realizan muchas tareas que requieren mucho tiempo mientras navegan por múltiples sistemas y bases de datos.
+La capacidad de Havyn
+
+para responder múltiples consultas a la vez tiene el potencial de complementar en gran medida los flujos de trabajo de
+ciberseguridad actuales.
+
+*La Raspberry Pi, que es?*
+
+¡La Raspberry Pi es una computadora versátil que se puede convertir en casi cualquier cosa!
+
+Es una computadora del tamaño de una tarjeta de crédito de bajo costo que se conecta a un monitor de computadora o a un
+televisor. Ayuda a personas de todas las edades a explorar la informática y aprender a programar en lenguajes como Scratch y
+Python. Tiene una versión ligera de un sistema operativo Linux llamado Raspbian.
+
+Es una excelente manera de aprender más sobre programación de computadoras con proyectos divertidos, como la creación de
+parlantes domésticos inalámbricos, un centro multimedia para su televisor e incluso un servidor web personal.
 
 ##### Centro de comando IBM X-Force
 
