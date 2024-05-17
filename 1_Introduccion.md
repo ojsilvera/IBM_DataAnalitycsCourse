@@ -2500,6 +2500,50 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ### Fundamento de operaciones agiles
 
+#### Introduccion al trabajo de operaciones agiles
+
+![alt text](<Introduccion al trabajo de operaciones.png>)
+
+#### Que es el trabajo de operaciones
+
+![alt text](<El trabjo de operacioens que es.png>)
+
+#### Cual es el patron de operaciones
+
+##### El enfoque
+
+![alt text](<patron de operaciones.png>)
+
+##### Resumen y reflexion
+
+![alt text](<Reflexion y resumen.png>)
+
+#### Agregar agile al patron de operaciones
+
+##### Practicas agiles y central del patron de operaciones
+
+![alt text](<agiles y central del patron de operaciones.png>)
+
+##### Contratos sociales y operaciones
+
+![alt text](<contrato social y operaciones.png>)
+
+##### Iteraciones
+
+![alt text](Iteraciones.png)
+
+##### Muros de trabajo
+
+![alt text](<Muros de trabajo.png>)
+
+##### StandUp - daily
+
+![alt text](<Stand up.png>)
+
+##### Retrospectiva en operaciones
+
+![alt text](retrospectiva-1.png)
+
 ### fundamentos del programa agile
 
 ## Panorama laboral
