@@ -2183,7 +2183,48 @@ Nadie puede eliminar una transacción.
 
 ##### Carreras en blockchain, Infografía
 
+**¿Quieres saber qué puedes hacer con blockchain?**
+
+Blockchain es un campo en rápido crecimiento con muchas oportunidades para mentes curiosas. Ahora quizás se pregunte qué
+empresas contratan más para tecnologías blockchain o qué habilidades técnicas podrían estar en demanda.
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
 #### Como se utiliza el block chain
+
+##### Introducción al uso de la cadena de bloques
+
+Hay muchos casos de uso para la tecnología blockchain, y cada día se discuten, investigan y desarrollan más para hacer que
+la transferencia digital de valor sea efectiva.
+
+Por ejemplo, IBM y Walmart ya se han asociado para aplicar la tecnología a la gestión de su cadena de suministro, mientras
+que gigantes de Wall Street como JP Morgan y American Express han invertido en tecnología para acelerar las transferencias
+bancarias.
+
+Al final de este breve módulo, debería poder:
+
+Sepa cómo las empresas empresariales y tecnológicas, como IBM, están utilizando las soluciones blockchain. Sepa dónde
+encontrar información y recursos para trabajar y aprender más sobre blockchain
+
+##### Casos de uso de cadena de bloques
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+##### Enfoque: Proteger los alimentos en la cadena de bloques
+
+##### Glosario para principiantes, Conoce los términos
+
+##### ¡Blockchain y tú!, Explora más
 
 ### Internet de las cosas (IoT)
 
