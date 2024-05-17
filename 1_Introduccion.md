@@ -1928,6 +1928,56 @@ técnicas de explotación de última generación.
 
 ### Blockchain
 
+#### Que es Block Chain
+
+##### Introducción a Block Chain
+
+Blockchain ha sido una palabra de moda en tecnología desde hace un tiempo.
+
+¿Pero qué es realmente? ¿Y por qué importa?
+
+El objetivo de este aprendizaje es exponer los conceptos fundamentales, el por qué y el cómo, y darle una idea de cómo
+funciona blockchain.
+
+Al final de este breve módulo, debería poder:
+
+Explica qué es blockchain y por qué es importante Comprender los conceptos y componentes clave de la tecnología blockchain.
+
+##### Para hacerte pensar
+
+¿Qué opinas?
+
+Verdadero o falso: el crecimiento de blockchain a menudo se ha comparado con el crecimiento de Internet.
+
+Si pensabas que esta afirmación es cierta , ¡tienes razón!
+
+Este es el por qué:
+
+Tanto blockchain como Internet tuvieron una proporción similar de partidarios y detractores. Pero al final, Internet condujo
+a lo que hoy es la era de la información.
+
+Ginni Rometty, directora ejecutiva de IBM (2012-2020), suele decir que “la cadena de bloques hará con las transacciones lo
+que Internet hizo con la información”.
+
+¿Qué quiere decir esto? Significa que blockchain es más que datos transaccionales. A medida que la tecnología madure, es
+probable que blockchain siga los mismos paralelos que en las primeras fases de Internet, pero a un ritmo mucho más rápido, y
+se conecte con otros sistemas, servicios y análisis. Esto será de la misma manera en que Internet creció hasta estar
+conectado con análisis y datos, inteligencia artificial y tecnologías cognitivas, e Internet de las cosas (IoT).
+
+##### Cadena de bloques explicada
+
+¿Puedes aprender todo lo que necesitas saber sobre blockchain en dos minutos? No, pero este vídeo explicativo del Instituto
+para el Futuro le dará una idea de qué es blockchain y sus posibles usos. Además, desarrollará su conocimiento de blockchain
+a medida que avance en el curso.
+
+<https://youtu.be/r43LhSUUGTQ>
+
+##### Lo que necesitas saber sobre blockchain
+
+##### Carreras en blockchain, Infografía
+
+#### Como se utiliza el block chain
+
 ### Internet de las cosas (IoT)
 
 #### Qué es Internet de las cosas
