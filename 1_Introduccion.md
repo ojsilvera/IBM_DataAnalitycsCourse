@@ -1930,6 +1930,12 @@ técnicas de explotación de última generación.
 
 ### Internet de las cosas (IoT)
 
+¿Por qué eso importa?, El impacto del IoT
+
+¿Como funciona?, Dispositivos conectados
+
+¿Cuáles son algunos ejemplos?, Casos de uso en acción
+
 ## Explorar metodologias agiles
 
 ## Panorama laboral
