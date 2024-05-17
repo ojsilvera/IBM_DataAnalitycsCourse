@@ -1972,7 +1972,167 @@ a medida que avance en el curso.
 
 <https://youtu.be/r43LhSUUGTQ>
 
+*Conclusiones clave.*
+
+Blockchain almacena información en una red de computadoras personales, haciéndolas distribuidas y descentralizadas.
+Esto hace que sea difícil para cualquier persona desactivar la red o corromperla.
+Blockchain utiliza criptografía para garantizar que los registros no puedan ser manipulados.
+
+*¿Qué aprendiste?*
+
+En el video, escuchaste sobre la aplicación asesina de blockchain, Bitcoin. ¿Cómo describirías Bitcoin?
+
+A. Efectivo digital
+
+B. Criptomoneda
+
+C. Algo diferente a las tarjetas de crédito
+
+Todo lo anterior
+
+¡Haga clic en esta sección para revelar la respuesta!
+Si adivinaste la opción D, Todo lo anterior, ¡tienes razón!
+
+Este es el por qué:
+
+Blockchain se hizo popular por primera vez como la tecnología detrás de la criptomoneda Bitcoin.
+
+Bitcoin ofrece una forma de transferir efectivo digital o electrónico directamente entre individuos. Tampoco se trata de
+PayPal ni de tarjetas de crédito. Con Bitcoin, ahora se pueden realizar pagos con un alto nivel de confianza a extraños, sin
+necesidad de que una autoridad central como un banco o un gobierno autorice la transacción.
+
+Pero blockchain es y se ha convertido en mucho más que una criptomoneda, lo cual descubrirá a medida que avance en este
+aprendizaje.
+
+¿Libros de contabilidad distribuidos y funciones hash?
+
+El siguiente vídeo de la Oficina de Ciencias del Gobierno del Reino Unido presenta algunos conceptos clave que explican cómo
+funciona la tecnología blockchain, incluido el almacenamiento y el registro de transacciones. El vídeo también describe cómo
+la tecnología blockchain puede beneficiar a las empresas y a la sociedad.
+
+¿Curioso?
+
+<https://youtu.be/4sm5LNqL5j0>
+
+**Conclusiones clave.**
+
+*Libros mayores distribuidos.*
+
+Los libros de contabilidad distribuidos realizan muchas funciones similares a las de un banco sin requerir confianza ni una
+entidad central. El libro mayor distribuido de blockchain almacena información de transacciones en un formato diferente al
+de un libro mayor típico, ¡y se considera a prueba de manipulaciones!
+
+*Funciones hash criptográficas.*
+
+Cuando se agrega un bloque a una cadena, se sella mediante un sello criptográfico llamado hash , una cadena aleatoria de
+letras y números. Una función hash criptográfica es una ecuación matemática que permite muchas formas cotidianas de cifrado;
+su trabajo es verificar la autenticidad de un dato en la tecnología blockchain.
+
+**¿Qué aprendiste?**
+
+El video cubrió cómo la tecnología blockchain es difícil de piratear. ¿Porqué es eso?
+
+R. El libro mayor está descentralizado.
+
+B. El libro mayor existe en una gran cantidad de ubicaciones.
+
+C. Es muy difícil cambiar la información de la transacción.
+
+Todo lo anterior.
+
+Si adivinaste la opción D, Todo lo anterior, ¡tienes razón!
+
+*Este es el por qué:*
+
+Las cadenas de bloques son visibles y accesibles públicamente , lo que significa que cualquiera puede ver qué transacciones
+se han realizado. Debido a que el libro de contabilidad está descentralizado y existe en una gran cantidad de ubicaciones
+diferentes, sus creadores creen que nunca podrá ser pirateado, porque un pirata informático necesitaría borrar una
+transacción en más de la mitad de las computadoras conectadas a la red, un número que puede ejecutarse. ¡en cientos de
+miles!
+
 ##### Lo que necesitas saber sobre blockchain
+
+pero como funciona?
+
+Para responder a eso, comencemos por desglosar la definición de blockchain. Si una blockchain es una “cadena de bloques”,
+¿qué es un bloque ?
+
+Un bloque es un grupo de transacciones que se llevan a cabo en orden cronológico y codificadas en una cadena de bloques.
+Cada computadora que ejecuta código para una cadena de bloques determinada tiene los datos que contienen todas las
+transacciones que alguna vez han tenido lugar en la cadena de bloques.
+
+Se escriben o extraen nuevos bloques cuando se realizan nuevas transacciones. Una vez que los bloques se escriben en la
+cadena de bloques, esos registros no se pueden borrar ni cambiar fácilmente.
+
+Construyendo una cadena de bloques
+
+La siguiente imagen describe los pasos para construir una cadena de bloques:
+
+![alt text](image-44.png) A medida que ocurre cada transacción, se coloca en un bloque.
+
+![alt text](image-45.png) Cada bloque está conectado a uno anterior y posterior.
+
+![alt text](image-46.png) Las transacciones se bloquean juntas; creando una cadena irreversible: una blockchain.
+
+**Seguimiento de activos digitales.**
+
+Blockchain rastrea el movimiento de valor o activos digitales desde el punto A al punto B utilizando tecnología de
+contabilidad distribuida . Esto significa que los libros de contabilidad de blockchain se distribuyen entre todas las
+computadoras que ejecutan su software. (Nota: ¡ Este concepto también se introdujo en los dos videos del tema explicado
+sobre Blockchain si necesita revisarlo!)
+
+Las siguientes secciones resumen algunos malentendidos comunes sobre blockchain. ¡Hay un cuestionario al final para poner a
+prueba tus conocimientos!
+
+**¿Cuál es la diferencia entre la tecnología de contabilidad distribuida y una base de datos?**
+
+La principal diferencia entre una blockchain y una base de datos es la descentralización . Los registros en una cadena de
+bloques no se guardan en una única ubicación central; se comparten entre computadoras simultáneamente. Cada participante en
+una cadena de bloques tiene una copia segura de todos los registros y todos los cambios para que cualquiera pueda ver el
+registro de auditoría de los datos; no es necesario que un tercero central de confianza audite las transacciones y se
+asegure de que todo esté correcto.
+
+La tecnología Blockchain requiere que todos los nodos de la red formen consenso . Esto significa que cuando las
+transacciones se transmiten a la red (por ejemplo, cuando su amigo le envía un bitcoin), la red debe validar estas
+transacciones.
+
+¿Necesitas un ejemplo?
+Para leer y ver cómo funciona blockchain, consulte esta lectura de 3 minutos, <https://hackernoon.com/blockchain-a-short-and-simple-explanation-with-pictures-d60d652f207f>
+
+**¿Existen diferentes tipos de blockchains?**
+
+Generalmente, las blockchains entran en la categoría de abiertas (públicas) o cerradas (privadas). La principal distinción
+entre ellos está relacionada con quién puede participar en la red, ejecutar el protocolo de consenso y mantener el libro
+mayor compartido.
+
+**Cadenas de bloques públicas.**
+
+Distribuya la confianza y el poder entre todos los participantes de la red, lo que significa que cualquiera puede unirse y
+participar en ella. Bitcoin es una de las redes públicas de blockchain más grandes en producción en la actualidad.
+
+*Ejemplos.*
+
+Bitcoin: se utiliza para rastrear la propiedad de la moneda digital.
+
+Ethereum: una plataforma de software abierta que permite a los desarrolladores crear e implementar aplicaciones descentralizadas.
+
+- Recursos
+
+¿Busca una guía completa sobre Bitcoin? Consulte ¿Qué es Bitcoin? por Blockgeeks. <https://blockgeeks.com/guides/what-is-bitcoin/>
+
+¿Quieres profundizar y aprender más sobre Ethereum? Consulte ¿Qué es Ethereum? por Blockgeeks. <https://blockgeeks.com/guides/ethereum/>
+
+**Cadenas de bloques privadas.**
+
+Operan en un entorno "confiable" y se consideran más seguros.
+
+Ejemplo
+
+Hyperledger Fabric : un motor que se centra en contratos inteligentes.
+
+Recurso
+
+Consulte ¿Qué es Hyperledger? por Blockgeeks. <https://blockgeeks.com/guides/hyperledger/>
 
 ##### Carreras en blockchain, Infografía
 
