@@ -1627,7 +1627,19 @@ infografía y artículo.
 
 ![alt text](image-41.png)
 
+<https://bundles.yourlearning.ibm.com/skills/learn/assets/XVPQVZGJWWQV55Y8/Blog_How%20to%20land%20a%20career%20in%20cybersecurity_English.pdf>
+
 #### como se utiliza la ciberseguuridad
+
+##### Introducción uso de la ciberseguridad
+
+##### Tony Stark tiene a Jarvis y ahora IBM tiene a Havyn
+
+##### Centro de comando IBM X-Force
+
+##### Centro de comando X-Force: experiencia Cyber ​​Range 360
+
+##### Laboratorio de Ciberseguridad NOVA, Actividad opcional
 
 #### IBM y ciberseguuridad
 
