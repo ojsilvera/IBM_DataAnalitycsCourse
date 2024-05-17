@@ -1930,11 +1930,55 @@ técnicas de explotación de última generación.
 
 ### Internet de las cosas (IoT)
 
-¿Por qué eso importa?, El impacto del IoT
+#### Qué es Internet de las cosas
 
-¿Como funciona?, Dispositivos conectados
+##### ¿Por qué eso importa?, El impacto del IoT
 
-¿Cuáles son algunos ejemplos?, Casos de uso en acción
+Las "cosas" en Internet de las cosas, o IoT, se refieren a máquinas o dispositivos integrados con sensores que recopilan,
+almacenan y analizan información. Cuando estas cosas se conectan a Internet y a un servidor de datos central, pueden cargar
+esos datos para su posterior procesamiento y utilizarlos para facilitar la realización de muchas tareas.
+
+Cuando algo está conectado a Internet, eso significa que puede enviar información o recibir información, o ambas cosas. Esta
+capacidad de enviar y recibir información hace que las cosas sean "inteligentes". Esto significa que una cosa no necesita
+tener un súper almacenamiento o una súper computadora en su interior; solo tiene que conectarse a un súper almacenamiento o
+a una súper computadora.
+
+¿Por qué eso importa?
+
+Representación de IoT, Los dispositivos equipados con IoT incluyen teléfonos inteligentes, computadoras portátiles y
+electrodomésticos personales y domésticos, como cafeteras, refrigeradores, Google Home, relojes Apple y Fitbits. Estos y
+muchos otros objetos cotidianos se están volviendo cada vez más inteligentes a medida que recopilan e intercambian datos a
+través de Internet.
+
+Esto significa que el mercado de IoT está creciendo rápidamente y se espera que la cantidad de dispositivos conectados
+aumente a 20,4 mil millones para 2020.*
+
+IoT proporciona a las empresas y a las personas una mejor visión y control sobre la mayoría de los objetos y entornos que
+permanecen fuera del alcance de Internet. Al hacerlo, IoT permite a las empresas y a las personas estar más conectadas con
+el mundo que las rodea y realizar un trabajo más significativo y de mayor nivel.
+
+##### ¿Como funciona?, Dispositivos conectados
+
+Un sistema IoT consta de sensores o dispositivos que "hablan" con la nube a través de algún tipo de conectividad. Luego, el
+sistema integra datos de los diferentes dispositivos y puede aplicar análisis para compartir la información más valiosa con
+aplicaciones creadas para abordar necesidades específicas.
+
+![alt text](image-42.png)
+
+##### ¿Cuáles son algunos ejemplos?, Casos de uso en acción
+
+IoT consiste en conectar cosas para que funcionen mejor, haciendo que nuestras vidas sean más productivas, conectadas y
+seguras. Considere estos ejemplos:
+
+Industria energética:  los sensores monitorean aspectos como la iluminación, la temperatura, el uso de energía y más. Al
+procesar los datos de los sensores, los algoritmos inteligentes pueden microgestionar el uso de energía en tiempo real de
+manera mucho más efectiva que los individuos, ahorrando dinero y energía.
+
+Industria agrícola: los sensores monitorean la humedad del suelo y tienen en cuenta el clima para que los sistemas de riego
+inteligentes solo rieguen los cultivos cuando sea necesario, reduciendo la cantidad de agua utilizada.
+
+Alerta de desastres: Los sensores recopilan información crítica sobre el medio ambiente, lo que permite la detección
+temprana de desastres ambientales, como terremotos y tsunamis, salvando así vidas.
 
 ## Explorar metodologias agiles
 
