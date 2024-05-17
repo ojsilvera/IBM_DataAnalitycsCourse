@@ -2134,6 +2134,53 @@ Recurso
 
 Consulte ¿Qué es Hyperledger? por Blockgeeks. <https://blockgeeks.com/guides/hyperledger/>
 
+**¿Bitcoin es lo mismo que blockchain?**
+
+Por si te lo perdiste en los temas anteriores, Bitcoin, una moneda electrónica o criptomoneda, no es igual a blockchain.
+Bitcoin utiliza la tecnología blockchain como libro de transacciones para realizar un seguimiento de todas las transacciones
+de Bitcoin que se han realizado.
+
+Mire este breve vídeo, de Guardian Animations, para obtener más información sobre Bitcoin y cómo surgió.
+
+<https://youtu.be/s4g1XFU8Gto>
+
+*Conclusiones clave.*
+
+Bitcoin se creó para resolver los problemas de confianza, transparencia y responsabilidad entre dos partes al intercambiar
+dinero por bienes y servicios a través de Internet.
+
+Como resultado, blockchain ha evolucionado más allá de Bitcoin. Bitcoin, al igual que otras criptomonedas, es sólo una
+pequeña parte de lo que blockchain puede hacer ahora.
+
+¿Quieres aprender más sobre blockchain y Bitcoin?
+
+Lea ¿Qué es lo que la gente malinterpreta sobre la tecnología blockchain? por Jerry Cuomo, miembro de IBM y vicepresidente
+de Blockchain Technologies.<https://www.forbes.com/sites/quora/2019/05/29/what-do-people-misunderstand-about-blockchain-technology/#2bd45f245e39>
+
+Mire este video de 10 minutos, Bitcoin: Cómo funcionan las criptomonedas , de SciShow, para ver en profundidad cómo funcionan
+las criptomonedas. <https://www.youtube.com/watch?v=kubGCSj5y3k&list=PLpQQipWcxwt_cocZHpKNRr2cTs5n2nL2p&index=10>
+
+- Para resumir ...
+
+Las transacciones comerciales se realizan cada segundo de cada día: pedidos, pagos, seguimiento de cuentas y mucho más. La
+tecnología Blockchain ofrece nuevas formas de autenticación y autorización de transacciones en el mundo digital. Proporciona
+un método para registrar y transferir datos de forma transparente, confiable y demostrable .
+
+Los beneficios de la cadena de bloques:
+
+¡ Es un libro de contabilidad digital!
+Las cadenas de bloques se utilizan para almacenar y mantener información sobre transacciones.
+
+¡Está distribuido!
+Blockchain funciona como un sistema de registro compartido entre los participantes.
+
+¡Está permitido!
+Cada miembro de la red tiene derechos de acceso para que se pueda compartir información confidencial según sea necesario.
+
+¡Es seguro!
+Se requiere el consenso de todos los miembros de la red y todas las transacciones válidas se registran permanentemente.
+Nadie puede eliminar una transacción.
+
 ##### Carreras en blockchain, Infografía
 
 #### Como se utiliza el block chain
