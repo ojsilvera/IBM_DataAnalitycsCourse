@@ -2466,6 +2466,18 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ![alt text](<Ponerse de pie.png>)
 
+##### Retrospectiva
+
+![alt text](retrospectiva.png)
+
+##### Showcase
+
+![alt text](Showcase.png)
+
+##### Shuhari
+
+![alt text](Shuhari.png)
+
 ### Fundamento de operaciones agiles
 
 ### fundamentos del programa agile
