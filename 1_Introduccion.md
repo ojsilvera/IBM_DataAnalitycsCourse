@@ -2548,6 +2548,36 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ![alt text](<resumen y reflexion agile y operaciones.png>)
 
+#### Equipos agiles de operaciones
+
+##### Autodirigidos
+
+![alt text](<equipos autodirigidos-1.png>)
+
+##### Equipo central
+
+![alt text](<equipo central.png>)
+
+##### Equipo ampliado
+
+![alt text](<Equipo ampliado.png>)
+
+##### equipo de gobierno
+
+![alt text](<Equipo de gobierno.png>)
+
+##### resumen y reflexion equipos agiles en operaciones
+
+![alt text](<resumen y reflexiones equipos agile en operaciones.png>)
+
+#### Kanban
+
+##### metodo kanban
+
+##### principios kanban
+
+##### resumen y reflexion kanban
+
 ### fundamentos del programa agile
 
 ## Panorama laboral
