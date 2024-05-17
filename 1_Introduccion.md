@@ -1689,6 +1689,24 @@ parlantes domésticos inalámbricos, un centro multimedia para su televisor e in
 
 ##### Centro de comando IBM X-Force
 
+Los IBM X-Force Command Centers representan un salto cuántico en las capacidades centrales de IBM Security. Los centros se
+basan en las últimas soluciones de seguridad cognitiva y los mejores talentos de la industria. Al combinar tecnología líder,
+procesos probados en la industria y aportes de expertos en seguridad capacitados, los IBM X-Force Command Centers ayudan a
+las empresas a mantenerse a la vanguardia incluso de las amenazas más avanzadas.
+
+Los participantes operan herramientas reales, investigan infecciones activas y responden a eventos de ciberseguridad
+internos y externos. Vea cómo es entrenar en un IBM X-Force Command Center, donde la tecnología cognitiva de vanguardia y
+los expertos en ciberdefensa de IBM combinan fuerzas para ayudar a las organizaciones a identificar y combatir amenazas de
+seguridad avanzadas.
+
+Conclusiones clave
+
+Un IBM X-Force Command Center proporciona habilidades críticas de liderazgo en crisis relacionadas con la ciberseguridad en
+un entorno seguro donde los participantes pueden experimentar los efectos del malware en vivo, la denegación de servicio
+distribuido (DDoS) y otros ataques tradicionales y avanzados. IBM X-Force Command Center es una instalación de última
+generación que sumerge a clientes actuales y potenciales en un Centro de Operaciones de Seguridad (SOC) simulado. Sus
+tácticas y protocolos están diseñados para anticipar y defenderse contra amenazas cibernéticas actuales y futuras.
+
 ##### Centro de comando X-Force: experiencia Cyber ​​Range 360
 
 ##### Laboratorio de Ciberseguridad NOVA, Actividad opcional
