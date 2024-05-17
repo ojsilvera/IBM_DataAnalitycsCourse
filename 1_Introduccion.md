@@ -2222,7 +2222,102 @@ encontrar información y recursos para trabajar y aprender más sobre blockchain
 
 ##### Enfoque: Proteger los alimentos en la cadena de bloques
 
+Las espinacas en el estante del supermercado son de color verde brillante y se ven deliciosas, pero ¿cómo sabes que en
+realidad es seguro comerlas? ¿Qué pasaría si su minorista pudiera ver y validar con certeza dónde se cultivaron,
+manipularon, almacenaron e inspeccionaron esas espinacas, así como cada parada que hizo en su viaje a la tienda? ¡Esta es
+información a la que su minorista puede tener acceso con la tecnología de contabilidad distribuida y compartida de
+blockchain!
+
+Blockchain es ideal para abordar los desafíos de seguridad alimentaria porque establece un entorno confiable para todas las
+transacciones.
+
+Por ejemplo, si los detalles de origen de la granja, números de lote, datos de procesamiento, fechas de vencimiento y
+detalles de envío se registran digitalmente en blockchain, es posible verificar el historial, la ubicación y el estado de un
+producto alimenticio y potencialmente revelar cualquier problema de seguridad alimentaria. . Esta trazabilidad de extremo a
+extremo mejoraría la transparencia y la eficiencia en toda la cadena de suministro de alimentos.
+
+*Trabajando juntos por el consumidor.*
+
+Para resolver los desafíos de la industria alimentaria será necesario que los participantes de la cadena de suministro de
+alimentos trabajen juntos. Es por eso que un grupo de los principales minoristas y empresas de alimentos del mundo están
+trabajando con IBM para explorar cómo se puede utilizar la tecnología blockchain para hacer que la cadena de suministro de
+alimentos sea más segura.
+
+IBM Food Trust, lanzado en 2018, utiliza la plataforma blockchain de IBM para ayudar a las empresas a garantizar la
+trazabilidad en toda la cadena de valor. Una de esas empresas, Walmart, anunció recientemente que todos los proveedores de
+vegetales de hojas verdes para Sam's Club y Walmart deben cargar sus datos en la solución blockchain de seguridad
+alimentaria de IBM antes de septiembre de 2019.
+
 ##### Glosario para principiantes, Conoce los términos
+
+más sobre blockchain. Aquí tienes una lista.
+
+Activo
+
+Un activo es cualquier cosa física o digital que se pueda poseer o controlar para producir valor. Los ejemplos incluyen una
+casa, música, patentes o dinero en efectivo.
+
+bitcóin
+
+Bitcoin es una forma de moneda digital que utiliza técnicas de cifrado para regular la generación de moneda (bitcoins) y
+verificar la transferencia de fondos, todo ello operando independientemente de un banco central.
+
+cadena de bloques
+
+Una cadena de bloques es una implementación de tecnología de contabilidad distribuida que registra bloques de datos en
+transacciones e intercambios en cadena que tienen lugar en una red de igual a igual.
+
+Red de negocios
+
+Se refiere a un grupo de participantes en una transacción económica. Los miembros intercambian y verifican artículos de
+valor a través de un libro de contabilidad, que cada miembro posee y cuyo contenido está siempre sincronizado con el de los
+demás. Una red empresarial puede incluir clientes, competidores, proveedores, bancos, reguladores, gobiernos y otros.
+
+Consenso
+
+El consenso es el proceso en el que todos los participantes en una cadena de bloques aceptan una transacción verificada por
+la red. El consenso garantiza que los libros de contabilidad compartidos sean copias exactas y reduce el riesgo de
+transacciones fraudulentas, ya que la manipulación tendría que ocurrir en muchos lugares al mismo tiempo.
+
+Criptomoneda
+
+Una criptomoneda es una moneda electrónica, es decir, no existe en forma de billetes o monedas. La criptomoneda se
+intercambia digitalmente entre compradores y vendedores mediante cifrado por motivos de seguridad y no está supervisada por
+los bancos ni respaldada por los gobiernos.
+
+Criptografía
+
+La criptografía es un método para proteger la información transformándola (cifrándola) en un formato ilegible, llamado texto
+cifrado. Sólo los usuarios que poseen una clave secreta pueden descifrar (o descifrar) el mensaje en texto plano.
+
+Tecnología de contabilidad distribuida
+
+Esto se refiere a un sistema de registro que se comparte entre los participantes de una red empresarial.
+
+Cifrado
+
+El cifrado es el acto de cambiar (información) de una forma a otra, especialmente para ocultar su significado. Consulte
+criptografía .
+
+hiperledger
+
+Hyperledger es un proyecto de código abierto de la Fundación Linux para avanzar en la tecnología blockchain identificando y
+abordando características importantes para un estándar abierto intersectorial para libros de contabilidad distribuidos que
+pueda transformar la forma en que se realizan las transacciones comerciales a nivel mundial. Hyperledger sirve como código
+base para los productos, servicios y soluciones de IBM Blockchain.
+
+Libro mayor
+
+Un libro mayor es un sistema de registro de transacciones para una empresa.
+
+Contratos inteligentes
+
+Estos son protocolos informáticos que gobiernan las interacciones con el libro mayor y pueden permitir a los participantes
+de la red ejecutar ciertos aspectos de las transacciones automáticamente.
+
+Transacción
+
+Una transacción es una solicitud de un transactor a la cadena de bloques para ejecutar una función en el libro mayor.
 
 ##### ¡Blockchain y tú!, Explora más
 
