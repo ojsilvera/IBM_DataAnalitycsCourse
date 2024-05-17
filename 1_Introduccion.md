@@ -1709,9 +1709,57 @@ tácticas y protocolos están diseñados para anticipar y defenderse contra amen
 
 ##### Centro de comando X-Force: experiencia Cyber ​​Range 360
 
+Este vídeo es una experiencia simulada del X-Force Command Center: 360 Cyber ​​Range Experience.
+
+Usted es el director de seguridad de la información (CISO) en esta demostración en video 360 del IBM X-Force Command Center.
+Experimente el Cyber ​​Range "sandbox", donde el equipo mantiene a raya una infracción grave bajo la dirección de un general
+de ciberseguridad de IBM.
+
 ##### Laboratorio de Ciberseguridad NOVA, Actividad opcional
 
+**¡Toma la ciberseguridad en tus propias manos!**
+
+En esta práctica de laboratorio, defenderá una empresa que es blanco de ataques cibernéticos cada vez más sofisticados. Su
+tarea es fortalecer sus defensas cibernéticas y frustrar a los atacantes completando una serie de desafíos de
+ciberseguridad. Descifrarás contraseñas, crearás códigos y derrotarás a piratas informáticos maliciosos.
+
+Diviértete y prueba tus habilidades de ciberdefensa en el NOVA Cybersecurity Lab. ¿Tiene lo necesario para combatir a los
+ciberpiratas y atacantes?
+
+**¡JUEGA Y PROTÉGETE CONTRA LOS CIBERATAQUES!**
+
+En el Laboratorio de Ciberseguridad de NOVA, ayudarás a proteger una empresa que es blanco de ataques cibernéticos cada vez
+más sofisticados. Debes fortalecer continuamente tus defensas para frustrar a estos atacantes.
+
+Lo harás completando desafíos que te brindarán habilidades básicas de codificación, te ayudarán a detectar estafas diseñadas
+para engañarte para que reveles tus secretos y te enseñarán cómo descifrar y fortalecer las contraseñas.
+
+<https://www.pbs.org/wgbh/nova/labs/lab/cyber/>
+
 #### IBM y ciberseguuridad
+
+##### Introducción IBM y ciberseguridad
+
+¡Profundicemos en la ciberseguridad!
+
+Este tema le ayudará a dominar la terminología básica de ciberseguridad y a comprender cómo IBM Security ayuda a los
+clientes a defenderse de los ciberataques y responder a amenazas de seguridad más amplias.
+
+Comience con un video y una lista de términos de ciberseguridad que vale la pena conocer. Luego, aprenda los métodos comunes
+de ataques cibernéticos.
+
+##### ¿Cómo es trabajar en IBM Security?
+
+Ciberseguridad... ¡mucho más divertida de lo que pensabas! ¿Quizás se esté preguntando cuáles son los roles en
+ciberseguridad y las habilidades necesarias para trabajar en este campo?
+
+##### Para hacerte pensar
+
+##### Introducción a la terminología de ciberseguridad
+
+##### Métodos de ciberataque
+
+##### Minicuestionario: Terminología y métodos de ciberataque
 
 ### Blockchain
 
