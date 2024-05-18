@@ -2607,7 +2607,11 @@ Los equipos pueden mejorar sus procesos gradualmente con el tiempo, a un ritmo q
 cómodos, realizando pequeños cambios a lo largo del camino. Los cambios no tienen que ser grandes para ser valiosos. Los
 pequeños cambios a la vez son más fáciles de implementar y más fáciles de absorber o aceptar por parte de otros.
 
+![alt text](<principios kanban.png>)
+
 ##### resumen y reflexion kanban
+
+![alt text](<Reflexion y resumen metodo kanban.png>)
 
 ### fundamentos del programa agile
 
