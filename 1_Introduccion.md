@@ -2615,4 +2615,24 @@ pequeños cambios a la vez son más fáciles de implementar y más fáciles de a
 
 ### fundamentos del programa agile
 
+#### Introduccion Fundamentos del programa ágil
+
+#### Patron de programas agile
+
+#### Fase de descubrimiento
+
+#### Embudo del programa
+
+##### Definiendo el programa
+
+##### Practica agile: planes de lanzamiento
+
+##### Practica agile: muros de trabajo
+
+##### Practica agile: Historias de usuarios
+
+##### Resumen embudo del programa
+
+#### Fase de entrega
+
 ## Panorama laboral
