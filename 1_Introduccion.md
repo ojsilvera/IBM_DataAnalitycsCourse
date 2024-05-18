@@ -2937,7 +2937,102 @@ Si está empezando en este ámbito y le interesa la ciencia de datos, DeShaun le
 
 ##### Acerca de este módulo lo que buscan los empleadoes
 
+Introducción
+
+En este módulo, aprenderá en qué se fijan los posibles empleadores a la hora de contratar analistas y científicos de datos.
+
+Objetivos del curso
+
+Después de completar este módulo, debería ser capaz de:
+
+Identificar el conjunto de habilidades que las personas profesionales en datos necesitan
+Identificar las herramientas que se deben conocer cuando se inicia en el campo de los datos.
+
 ##### Competencias que desarrollar y herramientas que conocer
+
+Las empresas que desean disponer de información para tomar mejores decisiones, mejorar las experiencias de sus clientes y
+tomar decisiones informadas para resolver problemas empresariales necesitan personas cualificadas.
+
+Según los datos laborales de Burning Glass Technologies, estas son las principales competencias que necesitan los analistas
+de datos y los científicos de datos.
+
+Competencias que necesitan los analistas de datos:
+
+Competencias básicas
+
+    Análisis de datos
+    Ciencia de datos
+    Calidad de datos
+
+Competencias especializadas
+
+    Capacidad de comunicación
+    Trabajo en equipo y colaboración
+    Resolución de problemas
+    Investigación
+    Orientación al detalle
+    Escritura
+
+Conocimiento de herramientas
+
+    Microsoft Excel
+    SQL
+    Python
+    Tableau
+    Microsoft Power BI
+
+Competencias que necesitan los científicos de datos:
+
+Competencias básicas
+
+    Análisis de datos
+    Ciencia de datos
+    Aprendizaje automático
+    Modelos predictivos
+    Inteligencia Artificial (IA)
+
+Competencias especializadas
+
+    Capacidad de comunicación
+    Trabajo en equipo y colaboración
+    Resolución de problemas
+    Investigación
+    Creatividad
+    Escritura
+    Habilidades de presentación
+
+Conocimiento de herramientas
+
+    Reverso de la tarjeta
+    SQL
+    Python
+    Tableau
+    Otras herramientas y conocimientos de programación, como R, Apache Hadoop, TensorFlow, Scala, Scikit-learn, etc.
+
+Observe que hay muchas competencias que los analistas de datos y los científicos de datos tienen en común, como el análisis
+de datos, la comunicación, la resolución de problemas e incluso las herramientas.
+
+Cada conjunto de competencias no constituye un listado completo. Sin embargo, las capacidades presentadas representan una
+selección de algunas de las principales competencias necesarias para realizar las tareas cotidianas, cumplir con las
+responsabilidades y tener éxito en cada uno de estos puestos de trabajo.
+
+En general, los científicos de datos deben tener y aplicar algunas competencias que los analistas de datos no necesitan,
+especialmente en las áreas de aprendizaje automático e IA.
+
+Se trata de dos puestos de trabajo y trayectorias profesionales diferentes, con aptitudes, conocimientos, formación y
+experiencia que los posibles empleadores necesitan para contribuir al éxito de su empresa.
+
+Lenguajes y herramientas muy utilizados en el análisis de datos
+
+En esta tabla se destacan algunas herramientas y lenguajes de programación de análisis de datos muy utilizados. Dado que
+estas herramientas y lenguajes de programación se suelen utilizar en el análisis de datos, es importante que conozca al
+menos algunos de ellos si quiere desarrollar su carrera profesional en el campo de los datos.
+
+![herramientas para analistas de datos](image-73.png)
+
+Python y R son dos lenguajes de programación muy populares que se utilizan en la ciencia de datos, por lo que pueden ser un
+buen punto de partida. Python y R son de código abierto y gratuitos, lo que significa que cualquiera puede aprender a
+programar en estos lenguajes.
 
 ##### Aspectos positivos a tener en cuenta
 
