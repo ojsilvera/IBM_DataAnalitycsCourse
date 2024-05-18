@@ -3085,7 +3085,107 @@ sobre la marcha, y ser curioso y flexible.
 
 ##### Acerca de este módulo recursos utiles
 
+Introducción
+
+En este módulo, conocerá los recursos que puede utilizar para profundizar en los datos y mantenerse al día de los últimos avances.
+
+Objetivos del curso
+
+Después de completar este módulo, debería ser capaz de:
+
+Identificar Recursos para aprender más y estar actualizados en el campo de la ciencia de datos
+
 ##### Recursos que explorar
+
+Esta lección pretende servirle de inspiración para futuras exploraciones.
+
+Estos son algunos recursos que puede explorar, marcar como favoritos y tener en cuenta si desea saber más sobre los datos y mantenerse al día de los últimos avances en este campo. Se trata de una lista supervisada. Hay muchas organizaciones y sitios web que explorar, en función de sus intereses.
+
+- Organizaciones profesionales a tener en cuenta
+
+CODATA(opens in a new tab) es el Comité de Datos del Consejo Científico Internacional (ISC). El objetivo de CODATA es
+conectar datos y personas para hacer avanzar la ciencia y mejorar nuestro mundo.
+
+La Association of Data Scientists (ADaSci)(opens in a new tab) es un organismo profesional mundial de profesionales de la
+ciencia de datos y el aprendizaje automático.
+
+Data Science Africa (DSA)(opens in a new tab) es un grupo profesional de intercambio de conocimientos sin ánimo de lucro
+cuyo objetivo es reunir a destacados investigadores y profesionales de la ciencia de datos en África e impartir formación
+sobre los métodos más avanzados de la ciencia de datos.
+
+INFORMS(opens in a new tab) es el Instituto de Investigación Operativa y Ciencias de la Gestión (Institute for Operations
+Research and the Management Sciences), cuya misión es avanzar y promover la ciencia y la tecnología de la toma de decisiones
+para salvar vidas, ahorrar dinero y resolver problemas.
+
+- Publicaciones que consultar
+
+CODATA Data Science Journal(opens in a new tab) es una revista electrónica de libre acceso, revisada por expertos, que
+publica artículos sobre gestión, difusión, uso y reutilización de datos de investigación y bases de datos en todos los
+ámbitos de la investigación, incluidos la ciencia, la tecnología, las humanidades y las artes.
+
+International Journal of Data Science and Analytics (JDSA)(opens in a new tab)  reúne a líderes de opinión, investigadores,
+profesionales del sector y usuarios potenciales de la ciencia de datos y la analítica para desarrollar este campo, debatir
+nuevas tendencias y oportunidades, intercambiar ideas y prácticas y promover colaboraciones transdisciplinares y entre
+dominios.
+
+Scientific Data(opens in a new tab) es una revista revisada por expertos y de libre acceso que contiene descripciones de
+conjuntos de datos e investigaciones que fomentan el intercambio y la reutilización de datos científicos.
+
+Harvard Data Science Review(opens in a new tab) es una plataforma de acceso abierto que presenta el pensamiento fundacional,
+los hitos de la investigación, las innovaciones educativas y las principales aplicaciones, y se centra principalmente en la
+reproducibilidad, la replicabilidad y la legibilidad.
+
+- Noticias y blogs para estar al día
+
+Analytics Insight(opens in a new tab) ofrece ideas, noticias actualizadas y una revista con opiniones y puntos de vista de
+los principales líderes y ejecutivos del sector que comparten sus trayectos, experiencias, historias de éxito y
+conocimientos para hacer crecer negocios provechosos.
+
+Towards Data Science(opens in a new tab) es una publicación en línea en la que los autores independientes que siguen sus
+normas y directrices pueden publicar sus obras, comparten sus conocimientos y experiencia, y atraen a un amplio público en
+Medium(opens in a new tab).(opens in a new tab)
+
+Data Science Central(opens in a new tab) es uno de los principales recursos en línea para profesionales de los datos. Desde
+estadística y analítica hasta aprendizaje automático e inteligencia artificial, Data Science Central ofrece una experiencia
+de comunidad que incluye una completa plataforma editorial, interacción social, asistencia basada en foros y la información
+más reciente sobre tecnología, herramientas, tendencias y carreras profesionales.
+
+El Data Science 101 Blog(opens in a new tab) contiene una gran cantidad de información útil para las personas que acaban de
+iniciar el camino para convertirse en científicos de datos.
+
+Datanami(opens in a new tab) es un portal de noticias dedicado a ofrecer perspectivas, análisis e información actualizada
+sobre tendencias y soluciones emergentes en big data.
+
+- Opciones de aprendizaje gratuitas para adquirir competencias
+
+Nota: tendrá que registrarse para obtener una cuenta gratuita para los siguientes recursos de aprendizaje en línea.
+
+Kaggle(opens in a new tab) ofrece microcursos gratuitos en línea que le ayudarán a adquirir los conocimientos necesarios
+para realizar proyectos independientes de ciencia de datos. Kaggle también le puede ayudar a ampliar sus conocimientos de
+ciencia de datos y aprendizaje automático con las competiciones de Kaggle. Encuentre ayuda en la  documentación(opens in a
+new tab) u obtenga información sobre las Competiciones de la comunidad(opens in a new tab).
+
+Udemy(opens in a new tab) ofrece un breve curso gratuito en vídeo llamado An Introduction to Data Science (Introducción a la
+ciencia de datos)(opens in a new tab) con el que puede aprender conceptos básicos sobre datos.
+
+freeCodeCamp.org(opens in a new tab) ofrece un curso en vídeo de YouTube llamado  Data Science: An Introduction
+(Introducción a la ciencia de datos))(opens in a new tab) de Barton Poulson. El curso abarca los fundamentos de la ciencia
+de datos, la obtención de datos, la codificación, las matemáticas y la estadística. En freeCodeCamp(opens in a new tab)
+también encontrará muchos otros tipos de recursos de aprendizaje gratuitos.
+
+DataCamp(opens in a new tab) ofrece un curso gratuito de dos horas, Understanding Data Science (Visión general de la ciencia
+de datos)(opens in a new tab) con una introducción a la ciencia de datos sin necesidad de programación.
+
+W3Schools(opens in a new tab) es el principal sitio para desarrolladores web del mundo que ofrece una gran variedad de guías
+de aprendizaje gratuitas en línea con prácticas. El sitio incluye guías de aprendizaje sobre algunos lenguajes de
+programación de ciencia de datos populares, como Python(opens in a new tab), R(opens in a new tab), y SQL(opens in a new
+tab). Codecademy(opens in a new tab) ofrece clases gratuitas de 12 lenguajes de programación, incluidos Python y SQL.
+
+Code Patterns(opens in a new tab) de IBM Developer ofrece soluciones de código gratuitas a problemas a los que los
+desarrolladores se enfrentan cada día, en todas las tecnologías.
+
+También puede aprovechar IBM SkillsBuild(opens in a new tab) to power your future in tech with job skills, courses, digital
+credentials, and more.
 
 ##### Primeros pasos en el campo
 
