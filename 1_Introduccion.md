@@ -2822,15 +2822,116 @@ oportunidades de crecimiento profesional. ¡El futuro es prometedor!
 
 ##### Acerca de este módulo como trabajar con los datos
 
+Introducción
+
+En este módulo, conocerá las principales responsabilidades de un analista de datos y de un científico de datos, así como los
+numerosos sectores que dependen de los datos.
+
+Objetivos del curso
+
+Después de completar este módulo, debería ser capaz de:
+
+Identificar las industrias en las que las personas profesionales en datos trabajan.
+Identificar las responsabilidades principales de una persona profesional en analítica de datos y en ciencia de datos.
+
 ##### Los datos ayudan a todas las industrias
+
+En general, los profesionales de los datos trabajan en todos los sectores. Los encontrará en grandes empresas mundiales y en
+empresas de tamaño medio de todos los sectores, como:
+
+Finanzas: En el sector de finanzas, el análisis de datos puede ayudar a bancos e instituciones financieras a detectar
+fraudes y clientes que podrían no devolver sus préstamos
+
+Fabricación: En el sector de fabricación, el análisis de datos puede ayudar a reducir costes resolviendo problemas de la
+cadena de suministro y fallos de los equipos.
+
+Distribución: En el sector de distribución, el análisis de datos puede ayudar a las empresas a entender las necesidades de
+los clientes y sus hábitos de compra para predecir tendencias. Las empresas minoristas pueden recomendar nuevos productos
+para impulsar su negocio.
+
+Asistencia médica: En el sector de asistencia médica, el análisis de datos puede ayudar a realizar diagnósticos
+vitales basados en los datos de los pacientes. El análisis de datos también puede ayudar a descubrir nuevos métodos de
+desarrollo de farmacos.
+
+Aqui otros sectores:
+
+Seguros
+desarrollo de fármacos.
+Servicios científicos
+Tecnología de la información (TI)
+Marketing
+Gestión de empresas
+Administración pública
+Servicios educativos
+Arte y entretenimiento
 
 ##### Responsabilidades del analista de datos
 
+La principal responsabilidad de un analista de datos es recopilar, depurar y analizar datos utilizando los métodos y
+herramientas estándar de una empresa para detectar tendencias, encontrar patrones y hacer pronósticos.
+
+Los analistas de datos estudian un determinado problema empresarial identificado por el equipo de dirección o por el
+científico de datos, como "¿Por qué el equipo de TI está recibiendo tantas incidencias de defectos este año en comparación
+con el año pasado?". Los analistas de datos recopilan y analizan los datos para averiguar la causa y, a continuación,
+resolver el problema empresarial.
+
+Los analistas de datos también deben presentar sus conclusiones al equipo del proyecto y al equipo de dirección. Los
+analistas de datos presentan sus conclusiones mediante visualizaciones de datos, como gráficos y diagramas, para que el
+equipo pueda tomar decisiones e impulsar acciones.
+
+En general, para hacer bien su trabajo, los analistas de datos tienen que...
+
+    Entender la estrategia y los objetivos de la empresa
+    Analizar el significado de los números
+    Analizar las causas de determinados sucesos basándose en los resultados de los datos
+    Presentar las conclusiones utilizando un lenguaje y unos gráficos fáciles de entender
+    Contribuir a la toma de decisiones empresariales ofreciendo información relevante
+    Determinar la importancia de los valores atípicos y si deben tenerse en cuenta o pasarse por alto
+
 ##### Responsabilidades del científico de datos
+
+El trabajo de un científico en datos es más científico. La principal responsabilidad de un científico de datos es utilizar
+estadísticas, algoritmos de aprendizaje automático y lenguajes de programación para extraer datos relevantes con el fin de
+formular una hipótesis y probarla para ayudar a una empresa a tomar decisiones acertadas y pronosticar resultados futuros.
+
+Los científicos de datos colaboran con los analistas de datos para recopilar y depurar grandes cantidades de datos. Los
+datos incluyen "datos oscuros" que no están estructurados, como imágenes y texto.
+
+En general, para hacer bien su trabajo, los científicos de datos tienen que...
+
+    Identificar los problemas que ofrecen mayores oportunidades de solución para una empresa
+    Desarrollar una hipótesis para investigar y descubrir patrones ocultos
+    Minar y analizar big data
+    Utilizar técnicas y algoritmos de aprendizaje automático
+    Desarrollar, entrenar e implantar modelos personalizados de inteligencia artificial (IA) para pronosticar resultados
+    futuros
+    Interpretar los datos para obtener información práctica
+    Proponer soluciones y estrategias para afrontar los retos de la empresa
 
 ##### Escuche a Armen, que trabaja con datos
 
+¡La ciencia de datos es un trabajo de equipo! Puede colaborar dentro de su equipo y con distintos programas de una empresa.
+
+Los proyectos de ciencia de datos fomentan la colaboración entre husos horarios y culturas de todo el mundo.
+
+Si está empezando en este ámbito y le interesa la ciencia de datos, Armen le recomienda que:
+
+    Sea curioso y se pregunte siempre el porqué
+
+    Tenga una sólida formación en estadística
+
 ##### Escuche a DeShaun, que trabaja con datos
+
+Trabajará mejor si hace lo que le gusta y ama lo que hace.
+
+Cada día de la vida de un científico de datos puede ser diferente, dependiendo del proyecto. Siempre analizará los números
+para determinar la historia que cuentan, con el objetivo de obtener información y tomar decisiones relevantes.
+
+Si está empezando en este ámbito y le interesa la ciencia de datos, DeShaun le recomienda que:
+
+    Le interesen las matemáticas
+    Esté abierto a afrontar retos y a aprender cosas nuevas de todos los recursos en línea y herramientas disponibles sobre
+    ciencia de datos
 
 #### MÓDULO 3: LO QUE BUSCAN LOS EMPLEADORES
 
