@@ -3189,6 +3189,49 @@ credentials, and more.
 
 ##### Primeros pasos en el campo
 
+¿Qué sucede después? ¿Qué puede hacer para iniciarse en el campo de los datos?
+
+El camino a seguir para convertirse en un profesional de los datos es diferente para cada persona. Dependiendo de sus
+intereses y experiencia y de si está considerando una carrera profesional en análisis de datos o en ciencia de datos, tenga
+en cuenta estas estrategias generales.
+
+¡Amplíe sus conocimientos! Cuanto más familiarizado esté con el análisis de datos, más oportunidades tendrá para explorar.
+Intente investigar lo que le interesa, en términos de tipos de análisis, estadísticas, IA, diferentes sectores, los últimos
+proyectos de ciencia de datos que están teniendo impacto, etc.
+
+¡Siga aprendiendo! Este es el principio de su experiencia de aprendizaje. Puede seguir buscando en Internet otras
+oportunidades de aprendizaje y consultar las que se presentan en este curso. Investigue y encuentre los requisitos de
+formación para lo que quiere hacer.
+
+¡Explore nuevas oportunidades! Si está buscando empleo, puede comenzar a explorar el mercado de trabajo. Consulte las
+ofertas de empleo en línea para localizar requisitos y cualiﬁcaciones comunes. Hágase una idea de qué trabajos podrían
+resultarle atractivos en el futuro y trabaje para cumplir sus requisitos.
+
 #### RESUMEN Y EVALUACIÓN FINAL
 
 ##### Principales puntos que recordar
+
+1 Existe una necesidad global de personas con conocimientos especializados en datos para ayudar a las empresas a tomar
+decisiones basadas en datos que marquen la diferencia en este mundo digital
+
+2 Un trabajo en análisis de datos o en ciencia de datos puede ofrecer muchas oportunidades y posibilidades de crecimiento
+profesional.
+
+3 El análisis de datos ayuda a muchos tipos de organizaciones y empresas a resolver problemas en todos los sectores, desde
+las finanzas y la sanidad hasta la fabricación y la distribución.
+
+4 La principal responsabilidad de un analista de datos es recopilar, depurar y analizar datos utilizando los métodos y
+herramientas estándar de una empresa para identificar tendencias, encontrar patrones y hacer pronósticos.
+
+5 La principal responsabilidad de un científico de datos es utilizar estadísticas, algoritmos de aprendizaje automático y
+lenguajes de programación para extraer datos relevantes con el fin de formular una hipótesis y probarla para ayudar a las
+empresas a tomar decisiones acertadas y pronosticar resultados futuros.
+
+6 Es importante desarrollar competencias básicas o técnicas, como el análisis de datos y la ciencia de datos, y competencias
+laborales, como la comunicación y la resolución de problemas.
+
+7 Los analistas de datos y los científicos de datos deben conocer las herramientas de análisis de datos y los lenguajes de
+programación más utilizados, como SQL, Microsoft Excel, Python y R.
+
+8 Si está pensando en emprender una nueva carrera profesional en el campo de los datos, le será de gran ayuda ser una
+persona curiosa, decidida y flexible que sepa contar historias.
