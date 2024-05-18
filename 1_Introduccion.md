@@ -2617,13 +2617,53 @@ pequeños cambios a la vez son más fáciles de implementar y más fáciles de a
 
 #### Introduccion Fundamentos del programa ágil
 
+![alt text](<Introduccion Fundamentos del programa ágil.png>)
+
 #### Patron de programas agile
 
+![alt text](<Patron de programas agile.png>)
+
 #### Fase de descubrimiento
+
+![alt text](<Fase de descubrimiento.png>)
+
+![alt text](image-55.png)
+
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
 
 #### Embudo del programa
 
 ##### Definiendo el programa
+
+![alt text](<Definiendo el programa.png>)
+
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+
+![alt text](image-67.png)
+
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
 
 ##### Practica agile: planes de lanzamiento
 
