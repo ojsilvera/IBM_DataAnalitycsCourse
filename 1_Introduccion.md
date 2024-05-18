@@ -3036,7 +3036,50 @@ programar en estos lenguajes.
 
 ##### Aspectos positivos a tener en cuenta
 
+homogéneos en las empresas que contratan a profesionales de la IA. Una oferta de empleo para un "analista de datos" puede
+incluir competencias más propias de un "científico de datos". Un empleado puede denominarse "científico de datos" en una
+empresa, mientras que otra puede utilizar un nombre y un perfil de competencias diferentes para dicho empleado. A veces se
+utiliza el puesto de "científico de datos" como término genérico para muchos trabajos en este campo.
+
+Algunos otros nombres de puestos de trabajo que puede encontrar son ingeniero de datos, especialista en datos, analista de
+empresa, analista de bases de datos, analista de marketing y periodista de datos.
+
+Los posibles empleadores se centrarán en identificar a las personas con las capacidades de análisis de datos enumeradas en
+este módulo. Sin embargo, también pueden estar interesados en encontrar personas con conocimientos específicos del sector.
+Por ejemplo, si quiere trabajar en el sector de la sanidad, debe tener ciertos conocimientos y experiencia en este campo, o
+si quiere trabajar en informática, debe saber de ordenadores y programas informáticos.
+
+También hay herramientas específicas del sector que varían en función del sector.
+
+Los proyectos de ciencia de datos implican trabajar en equipo para resolver problemas reales que afectan a la vida de las
+personas. Por eso es importante tener competencias laborales, como comunicación, trabajo en equipo, pensamiento de diseño e
+inteligencia emocional, entre otras. Estas competencias también pueden denominarse "de empleabilidad" o "profesionales".
+Independientemente de cómo se les etiquete, los empresarios buscan candidatos potenciales con algo más que aptitudes
+técnicas. Los analistas y científicos de datos deben contar con una sólida combinación de competencias técnicas y laborales.
+
 ##### Características útiles
+
+Ser curioso por naturaleza. La curiosidad es un motor importante para comprender un problema empresarial, los datos y lo que
+se puede hacer con ellos. Estar dispuesto a adoptar una postura y confiar en ella. Ser flexible y adaptable. Tenga en cuenta
+que mientras adopta una posición, aprenderá de los datos, y podría descubrir que se encuentra en el lugar equivocado.
+
+Por lo tanto, es importante saber que es un proceso de aprendizaje y que hay que adaptarse a lo que se descubre en los
+datos. Por ejemplo, un científico de datos podría tener que modificar la hipótesis. Tener facilidad para contar historias.
+
+Una vez analizados los datos y determinadas algunas respuestas, hay que contar una historia. De lo contrario, sus conclusiones
+podrían no darse a conocer. Contar grandes historias sobre la información es crucial en este campo.
+
+Piense en usted
+
+¿Es un pensador crítico y un buen comunicador que quiere resolver problemas utilizando los datos? ¿Le gusta indagar sobre
+los datos y aprender sobre la marcha? Si ha respondido "sí" a estas preguntas, quizá su carrera profesional esté orientada
+al análisis de datos o a la ciencia de datos. Le resultará de ayuda tener en cuenta sus aptitudes actuales, intereses
+personales y competencias que puede desarrollar.
+
+Es importante tener conocimientos de matemáticas y estadística, además de los conocimientos básicos o técnicos y de las
+diversas herramientas de análisis de datos que ha aprendido en este curso. También es importante poseer las aptitudes
+laborales que ha aprendido, como comunicación, resolución de problemas, pensamiento crítico, trabajo en equipo y aprendizaje
+sobre la marcha, y ser curioso y flexible.
 
 #### MÓDULO 4: RECURSOS ÚTILES Y GUÍA DE INICIO
 
