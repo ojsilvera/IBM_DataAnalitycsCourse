@@ -2707,12 +2707,19 @@ Objetivos del curso
 
 Después de completar este curso serás capaz de:
 
-Reconocer la demanda global para roles en ciencia y analítica de datos en el mercado laboral. Reconocer el futuro del campo
-de la analítica de datos. Identificar las industrias en las que las personas profesionales en datos trabajan. Identificar
-las responsabilidades principales de una persona profesional en analítica de datos y en ciencia de datos. Identificar el
-conjunto de habilidades que las personas profesionales en datos necesitan Identificar las herramientas que se deben conocer
-cuando se inicia en el campo de los datos. Identificar Recursos para aprender más y estar actualizados en el campo de la
-ciencia de datos Duración estimada
+Reconocer la demanda global para roles en ciencia y analítica de datos en el mercado laboral.
+
+Reconocer el futuro del campo de la analítica de datos.
+
+Identificar las industrias en las que las personas profesionales en datos trabajan.
+
+dentificar las responsabilidades principales de una persona profesional en analítica de datos y en ciencia de datos.
+
+Identificar el conjunto de habilidades que las personas profesionales en datos necesitan.
+
+Identificar las herramientas que se deben conocer cuando se inicia en el campo de los datos.
+
+Identificar Recursos para aprender más y estar actualizados en el campo de la ciencia de datos Duración estimada
 
 50 minutos
 
@@ -2726,3 +2733,107 @@ Si no aprueba a la primera, puede volver a realizar el cuestionario las veces qu
 
 A medida que avance en el curso, verá marcas de verificación de finalización junto a los nombres de los módulos y las
 lecciones en la ventana de navegación lateral.
+
+#### MÓDULO 1: EL MERCADO LABORAL Y EL FUTURO
+
+##### Acerca de este módulo
+
+Introducción
+
+En este módulo, conocerá el panorama laboral y las necesidades futuras de profesionales con competencias sobre datos.
+
+Objetivos del curso
+
+Después de completar este módulo, debería ser capaz de:
+
+Reconocer la demanda global para roles en ciencia y analítica de datos en el mercado laboral.
+
+Reconocer el futuro del campo de la analítica de datos.
+
+##### La demanda global
+
+Si está pensando en trabajar en el sector de los datos, este podría ser el momento ideal. "Análisis de datos" y "ciencia de
+datos" ya no son solo palabras de moda; son herramientas esenciales para las empresas. Trabajar con datos es una novedad
+para las empresas si se compara con los departamentos de desarrollo de software o ciberseguridad que ya puedan tener. Las
+competencias y los puestos de trabajo relacionados con los datos son muy solicitados y constituyen una gran necesidad en el
+mercado laboral mundial.
+
+La necesidad de personas con conocimientos especializados en datos aumenta cada año. Aunque hay algunas diferencias entre
+las responsabilidades de un analista de datos y de un científico de datos, la tasa de crecimiento de las funciones
+relacionadas con los datos, en general, está aumentando con mucha rapidez.
+
+- La profesión que más crece
+
+El Foro Económico Mundial (FEM) situó los datos y la inteligencia artificial (IA) entre las siete profesiones de mayor
+crecimiento en 2020, con una tasa de crecimiento del 41 %. Es la tasa de crecimiento más alta de todas las profesiones que
+se mencionan en el informe.
+
+<http://www3.weforum.org/docs/WEF_Jobs_of_Tomorrow_2020.pdf>
+
+- 33%
+
+Se prevé que los empleos relacionados con el análisis de datos crezcan un 33 % entre 2020 y 2030 en Estados Unidos, mucho
+más rápido que la media. – Oficina de Estadísticas Laborales de EE. UU<
+
+<https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm>
+
+- Más de 137.000
+
+Analytics Insight ha pronosticado que para 2025 habrá 137.630 vacantes de empleo en ciencia de datos en la India, frente a
+los 62.793 puestos de 2020. – Analytics Insight
+
+<https://www.analyticsinsight.net/analytics-insight-predicts-137630-new-jobs-in-data-science-in-india-by-2025/?utm_source=skillsbuild.org>
+
+- Puesto nº 3 y nº 7
+
+Glassdoor ha elaborado una lista de los 50 mejores empleos en Estados Unidos para 2022 basándose en el potencial de
+ingresos, la satisfacción laboral y las ofertas de trabajo. El puesto de científico de datos ocupa el lugar número 3. El
+puesto de ingeniero de datos ocupa el lugar número 7. – Glassdoor
+
+<https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm>
+
+##### ¿Cuál es el futuro del análisis de datos?
+
+Aunque el alcance y la profundidad del análisis de datos son temas relativamente nuevos para muchas organizaciones, hay
+algunos sectores que llevan bastante tiempo confiando en el análisis de datos. Por ejemplo, el análisis de datos es muy
+común en el campo de la atención sanitaria. Las organizaciones sanitarias pueden pronosticar eficazmente los resultados de
+los pacientes, lo que puede ayudar a mejorar la asignación de fondos y las técnicas de diagnóstico.
+
+![Ilustración abstracta de una mano sosteniendo datos](image-72.png)
+
+El análisis predictivo puede utilizarse incluso en el hogar a través de dispositivos del Internet de las Cosas (IoT), como
+termostatos, electrodomésticos y pulsómetros inteligentes, por nombrar algunos. Este tipo de dispositivos de IoT recopilan
+datos del usuario para predecir su comportamiento y avanzar aún más en la automatización del hogar.
+
+Además, mucha gente se ha acostumbrado a los asistentes virtuales, como Google Search, Alexa y Siri, que utilizan el
+procesamiento del lenguaje natural (PLN) para entender y procesar el lenguaje humano en tiempo real. El PLN puede facilitar
+el uso de aplicaciones tanto empresariales como de consumo. Si se utiliza junto con la inteligencia artificial (IA), el PLN
+podría ayudar a los profesionales a resolver retos globales, como la energía limpia.
+
+Fuente:  What Is Data Analytics? by CompTIA(opens in a new tab)
+<https://www.comptia.org/content/guides/what-is-data-analytics>
+
+En general, los procesos empresariales cambiarán en el futuro gracias al análisis de datos. Las empresas con una sólida base
+de análisis de datos marcarán el camino. Los profesionales de los datos ayudan a las empresas a crecer, resolver problemas y
+destacar en este mundo digital de datos. Un trabajo en análisis de datos proporciona una carrera segura, con muchas
+oportunidades de crecimiento profesional. ¡El futuro es prometedor!
+
+#### MÓDULO 2: CÓMO TRABAJAR CON LOS DATOS
+
+##### Acerca de este módulo como trabajar con los datos
+
+##### Los datos ayudan a todas las industrias
+
+##### Responsabilidades del analista de datos
+
+##### Responsabilidades del científico de datos
+
+##### Escuche a Armen, que trabaja con datos
+
+##### Escuche a DeShaun, que trabaja con datos
+
+#### MÓDULO 3: LO QUE BUSCAN LOS EMPLEADORES
+
+#### MÓDULO 4: RECURSOS ÚTILES Y GUÍA DE INICIO
+
+#### RESUMEN Y EVALUACIÓN FINAL
