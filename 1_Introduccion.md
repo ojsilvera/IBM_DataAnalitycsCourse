@@ -2935,6 +2935,22 @@ Si está empezando en este ámbito y le interesa la ciencia de datos, DeShaun le
 
 #### MÓDULO 3: LO QUE BUSCAN LOS EMPLEADORES
 
+##### Acerca de este módulo lo que buscan los empleadoes
+
+##### Competencias que desarrollar y herramientas que conocer
+
+##### Aspectos positivos a tener en cuenta
+
+##### Características útiles
+
 #### MÓDULO 4: RECURSOS ÚTILES Y GUÍA DE INICIO
 
+##### Acerca de este módulo recursos utiles
+
+##### Recursos que explorar
+
+##### Primeros pasos en el campo
+
 #### RESUMEN Y EVALUACIÓN FINAL
+
+##### Principales puntos que recordar
