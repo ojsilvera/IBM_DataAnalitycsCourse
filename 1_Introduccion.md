@@ -2574,7 +2574,38 @@ temprana de desastres ambientales, como terremotos y tsunamis, salvando así vid
 
 ##### metodo kanban
 
+![alt text](<el metodo.png>)
+
 ##### principios kanban
+
+Visualice el flujo de trabajo
+
+La mejor manera de visualizar el flujo de trabajo es utilizar un muro de trabajo organizado por columnas que representan
+cada paso del proceso y tarjetas que representan las tareas en cada paso. Visualizar el flujo de trabajo le permite
+comprender mejor el proceso y las áreas de mejora.
+
+Limitar el trabajo en progreso
+
+El trabajo en progreso (WIP) es un factor clave para hacer que un proceso sea más eficiente al imponer restricciones a la
+cantidad de trabajo que se completa al mismo tiempo. Limitar el trabajo en progreso implica que se implemente un sistema de
+extracción en partes o en todo el flujo de trabajo donde el equipo realiza el trabajo por sí mismo cuando está listo para
+ello, en lugar de que la gerencia les envíe el trabajo independientemente de su preparación.
+
+Administrar flujo
+
+Los equipos pueden monitorear el flujo de trabajo para una mejor optimización. Pueden visualizar fácilmente la cantidad de
+trabajo y ajustarlo en consecuencia. Demasiado o poco trabajo no es eficiente para la productividad del equipo.
+
+Hacer explícitas las políticas de proceso
+
+Es importante que todas las reglas y directrices del proceso sean explícitas y visibles para todos. Esto garantiza que todos
+estén en el mismo camino para completar con éxito y reduce los errores y el desperdicio.
+
+Mejorar colaborativamente
+
+Los equipos pueden mejorar sus procesos gradualmente con el tiempo, a un ritmo que puedan manejar y con el que se sientan
+cómodos, realizando pequeños cambios a lo largo del camino. Los cambios no tienen que ser grandes para ser valiosos. Los
+pequeños cambios a la vez son más fáciles de implementar y más fáciles de absorber o aceptar por parte de otros.
 
 ##### resumen y reflexion kanban
 
