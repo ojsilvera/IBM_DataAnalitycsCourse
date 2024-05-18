@@ -2667,12 +2667,24 @@ pequeños cambios a la vez son más fáciles de implementar y más fáciles de a
 
 ##### Practica agile: planes de lanzamiento
 
+![alt text](<planes de lanzamiento.png>)
+
 ##### Practica agile: muros de trabajo
+
+![alt text](<muros de trabajo-1.png>)
 
 ##### Practica agile: Historias de usuarios
 
+![alt text](<Historias de usuario.png>)
+
 ##### Resumen embudo del programa
 
+![alt text](<ewsumen del embudo del programa.png>)
+
 #### Fase de entrega
+
+![alt text](<fase de entrega.png>)
+
+![alt text](image-71.png)
 
 ## Panorama laboral
