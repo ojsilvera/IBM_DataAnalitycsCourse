@@ -2688,3 +2688,41 @@ pequeños cambios a la vez son más fáciles de implementar y más fáciles de a
 ![alt text](image-71.png)
 
 ## Panorama laboral
+
+### Tu Futuro en Datos: Panorama Laboral
+
+#### Acerca de este curso
+
+Las empresas reconocen el valor de una estrategia empresarial basada en datos y la importancia del análisis de datos como
+parte de esa estrategia. En consecuencia, hoy en día existe una fuerte demanda de responsables de la toma de decisiones
+basados en datos. Las empresas necesitan personas cualificadas y con talento que les proporcionen información sobre el flujo
+continuo de datos que recopilan. Se prevé que la demanda de analistas y científicos de datos aumente a medida que el mundo
+se digitaliza.
+
+Le damos la bienvenida al curso Tu Futuro en Datos: Panorama Laboral. En este curso, aprenderá sobre el mercado laboral de
+los datos y sus proyecciones, las responsabilidades y competencias de un analista de datos y de un científico de datos, y
+los recursos y oportunidades de aprendizaje para que pueda seguir explorando.
+
+Objetivos del curso
+
+Después de completar este curso serás capaz de:
+
+Reconocer la demanda global para roles en ciencia y analítica de datos en el mercado laboral. Reconocer el futuro del campo
+de la analítica de datos. Identificar las industrias en las que las personas profesionales en datos trabajan. Identificar
+las responsabilidades principales de una persona profesional en analítica de datos y en ciencia de datos. Identificar el
+conjunto de habilidades que las personas profesionales en datos necesitan Identificar las herramientas que se deben conocer
+cuando se inicia en el campo de los datos. Identificar Recursos para aprender más y estar actualizados en el campo de la
+ciencia de datos Duración estimada
+
+50 minutos
+
+Criterios de finalización
+
+Para obtener créditos por completar este curso, debe visitar todas las páginas del curso, completar las actividades
+interactivas y aprobar la evaluación ﬁnal.
+
+Hay una evaluación ﬁnal, que se puntúa, al final del curso. Debe conseguir un 80 por ciento para superarlo. ¡No se preocupe!
+Si no aprueba a la primera, puede volver a realizar el cuestionario las veces que sea necesario hasta que apruebe.
+
+A medida que avance en el curso, verá marcas de verificación de finalización junto a los nombres de los módulos y las
+lecciones en la ventana de navegación lateral.
